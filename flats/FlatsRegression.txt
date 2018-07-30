@@ -1,0 +1,8092 @@
+itemId 162367905
+builtAt -
+bathrooms 1
+netArea 19
+metro Новогиреево
+floor 5
+price 4650000
+area 33
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony нет
+--------------------------
+itemId 158454386
+builtAt 1961
+bathrooms 1
+netArea 20
+metro Новые Черемушки
+floor 5
+price 6200000
+area 36
+elevator –
+timeToMetro 3
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162610437
+builtAt 1995
+bathrooms 1
+netArea 20
+metro Митино
+floor 2
+price 5750000
+area 40
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 22
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162978136
+builtAt 2002
+bathrooms 1
+netArea –
+metro Люблино
+floor 1
+price 1890000
+area 12
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 17
+rooms 1
+view двор и улица
+buildingType монолитный
+renovation отсутствует
+balcony –
+--------------------------
+itemId 162978262
+builtAt 2002
+bathrooms 1
+netArea –
+metro Люблино
+floor 1
+price 2790000
+area 19
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 17
+rooms 1
+view двор и улица
+buildingType монолитный
+renovation отсутствует
+balcony –
+--------------------------
+itemId 155831486
+builtAt 1972
+bathrooms 1
+netArea 21
+metro Пражская
+floor 1
+price 2990000
+area 23
+elevator –
+timeToMetro 10
+floors 9
+rooms 1
+view –
+buildingType вторичка
+renovation отсутствует
+balcony –
+--------------------------
+itemId 156185765
+builtAt 1952
+bathrooms 1
+netArea 11
+metro Первомайская
+floor 1
+price 3200000
+area 15
+elevator –
+timeToMetro 15
+floors 6
+rooms 1
+view улица
+buildingType кирпичный
+renovation евроремонт
+balcony –
+--------------------------
+itemId 153740894
+builtAt 1952
+bathrooms 1
+netArea 13
+metro Первомайская
+floor 3
+price 3400000
+area 15
+elevator –
+timeToMetro 12
+floors 6
+rooms 1
+view улица
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 160592753
+builtAt -
+bathrooms -
+netArea 12.1
+metro Беляево
+floor 5
+price 3484500
+area 17.5
+elevator 2 пасс.
+timeToMetro 10
+floors 15
+rooms 1
+view двор
+buildingType монолитный
+renovation -
+balcony нет
+--------------------------
+itemId 158519288
+builtAt 1952
+bathrooms 1
+netArea 12
+metro Первомайская
+floor 2
+price 3550000
+area 15.3
+elevator –
+timeToMetro 15
+floors 6
+rooms 1
+view улица
+buildingType кирпичный
+renovation евроремонт
+balcony –
+--------------------------
+itemId 162948395
+builtAt -
+bathrooms 1
+netArea 16
+metro Рязанский проспект
+floor 2
+price 3800000
+area 31
+elevator 1 пасс.
+timeToMetro 11
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony –
+--------------------------
+itemId 162971404
+builtAt 1972
+bathrooms 1
+netArea 19
+metro Бульвар Рокоссовского
+floor 3
+price 3800000
+area 23
+elevator 1 пасс. + 1 груз.
+timeToMetro 18
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony –
+--------------------------
+itemId 160701542
+builtAt 1968
+bathrooms 1
+netArea 18.9
+metro Щелковская
+floor 1
+price 4000000
+area 33.1
+elevator 1 пасс.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 159498713
+builtAt -
+bathrooms -
+netArea 17.4
+metro Щелковская
+floor 5
+price 4230000
+area 32
+elevator –
+timeToMetro 15
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 161989401
+builtAt 1966
+bathrooms 1
+netArea 21
+metro Кузьминки
+floor 1
+price 4200000
+area 34
+elevator 1 пасс.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 162096576
+builtAt -
+bathrooms -
+netArea 12
+metro Площадь Ильича
+floor 16
+price 4200000
+area 19
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 16
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony нет
+--------------------------
+itemId 155211438
+builtAt 1966
+bathrooms 1
+netArea 22
+metro Щелковская
+floor 9
+price 4200000
+area 34
+elevator –
+timeToMetro 17
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 161944591
+builtAt 1967
+bathrooms 1
+netArea 20
+metro Кузьминки
+floor 1
+price 4300000
+area 33
+elevator 1 пасс.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 162367968
+builtAt 1962
+bathrooms 1
+netArea 20
+metro Семеновская
+floor 2
+price 4300000
+area 32
+elevator –
+timeToMetro 15
+floors 5
+rooms 1
+view двор и улица
+buildingType панельный дом
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 162262798
+builtAt -
+bathrooms -
+netArea 18.7
+metro Красногвардейская
+floor 1
+price 4400000
+area 32.5
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony –
+--------------------------
+itemId 162130973
+builtAt 1961
+bathrooms 1
+netArea 18.5
+metro Рязанский проспект
+floor 5
+price 4400000
+area 31.5
+elevator –
+timeToMetro 14
+floors 5
+rooms 1
+view –
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 51006033
+builtAt 1963
+bathrooms 1
+netArea 19
+metro Волжская
+floor 5
+price 4400000
+area 31
+elevator нет
+timeToMetro 12
+floors 5
+rooms 1
+view двор и улица
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 155055039
+builtAt 1969
+bathrooms -
+netArea 19.7
+metro Текстильщики
+floor 1
+price 4400000
+area 33
+elevator –
+timeToMetro 17
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 159565913
+builtAt -
+bathrooms 1
+netArea 19
+metro Митино
+floor 4
+price 4400000
+area 33
+elevator –
+timeToMetro 20
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 161980193
+builtAt 1959
+bathrooms 1
+netArea –
+metro Нагорная
+floor 1
+price 4510000
+area 32
+elevator –
+timeToMetro 13
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony –
+--------------------------
+itemId 156836518
+builtAt 1965
+bathrooms 1
+netArea 20
+metro Рязанский проспект
+floor 2
+price 4450000
+area 32
+elevator 1 пасс.
+timeToMetro 16
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 161472505
+builtAt 1968
+bathrooms 1
+netArea 20
+metro Сходненская
+floor 1
+price 4500000
+area 31.9
+elevator 1 пасс.
+timeToMetro 12
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 162956853
+builtAt -
+bathrooms 1
+netArea 19
+metro Улица Горчакова
+floor 1
+price 4500000
+area 37
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony нет
+--------------------------
+itemId 153555060
+builtAt 2014
+bathrooms 1
+netArea 25
+metro Ясенево
+floor 4
+price 11500000
+area 60
+elevator 1 пасс. + 1 груз.
+timeToMetro 6
+floors 23
+rooms 1
+view двор и улица
+buildingType вторичка
+renovation отсутствует
+balcony 1 лодж.
+--------------------------
+itemId 160641770
+builtAt -
+bathrooms 1
+netArea 19.9
+metro Площадь Ильича
+floor 2
+price 7149000
+area 35.3
+elevator 1 пасс.
+timeToMetro 3
+floors 12
+rooms 1
+view двор и улица
+buildingType блочный
+renovation отсутствует
+balcony нет
+--------------------------
+itemId 154065723
+builtAt 1991
+bathrooms 1
+netArea 24
+metro Цветной бульвар
+floor 11
+price 17500000
+area 52
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 11
+rooms 1
+view –
+buildingType вторичка
+renovation евроремонт
+balcony 2 лодж.
+--------------------------
+itemId 162977495
+builtAt 1971
+bathrooms 1
+netArea 20
+metro Новогиреево
+floor 4
+price 4490000
+area 33
+elevator 1 пасс.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 152015077
+builtAt -
+bathrooms 1
+netArea 18
+metro Технопарк
+floor 2
+price 4500000
+area 22
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 2
+rooms 1
+view двор
+buildingType монолитный
+renovation евроремонт
+balcony –
+--------------------------
+itemId 162838902
+builtAt 1966
+bathrooms 1
+netArea 19
+metro Кантемировская
+floor 2
+price 4500000
+area 33
+elevator –
+timeToMetro 13
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159874004
+builtAt 1972
+bathrooms 1
+netArea 16
+metro Улица Академика Янгеля
+floor 12
+price 4500000
+area 31
+elevator 1 пасс.
+timeToMetro 16
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162012492
+builtAt 1976
+bathrooms -
+netArea 19
+metro Красногвардейская
+floor 1
+price 4450000
+area 33
+elevator 1 пасс.
+timeToMetro 5
+floors 9
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 162289365
+builtAt 1972
+bathrooms 1
+netArea 11.5
+metro Бабушкинская
+floor 1
+price 4600000
+area 25
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation -
+balcony –
+--------------------------
+itemId 162141106
+builtAt -
+bathrooms 1
+netArea 15
+metro Отрадное
+floor 5
+price 4550000
+area 27
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор и улица
+buildingType панельный дом
+renovation -
+balcony нет
+--------------------------
+itemId 161482169
+builtAt -
+bathrooms 1
+netArea 17
+metro Теплый Стан
+floor 10
+price 4600000
+area 35
+elevator 1 пасс.
+timeToMetro 7
+floors 12
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161353736
+builtAt 1971
+bathrooms 1
+netArea 19
+metro Выхино
+floor 5
+price 4600000
+area 33
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 160785338
+builtAt 1977
+bathrooms 1
+netArea 21
+metro Алтуфьево
+floor 7
+price 4600000
+area 35
+elevator 1 пасс.
+timeToMetro 19
+floors 9
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161431637
+builtAt -
+bathrooms 1
+netArea 20
+metro Щелковская
+floor 3
+price 4700000
+area 31
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 156162049
+builtAt 1969
+bathrooms 1
+netArea 19.1
+metro Щелковская
+floor 4
+price 4650000
+area 33.3
+elevator 1 пасс.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 156346351
+builtAt 2000
+bathrooms 1
+netArea 16
+metro Бунинская аллея
+floor 6
+price 4650000
+area 30
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161467597
+builtAt -
+bathrooms 1
+netArea 18.9
+metro Орехово
+floor 2
+price 4700000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 2
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161697648
+builtAt 1964
+bathrooms 1
+netArea 20
+metro Коломенская
+floor 5
+price 4700000
+area 32
+elevator –
+timeToMetro 15
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 161751266
+builtAt 1975
+bathrooms 1
+netArea 21
+metro Домодедовская
+floor 8
+price 4700000
+area 34.8
+elevator 1 пасс.
+timeToMetro 12
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 157139087
+builtAt 1982
+bathrooms -
+netArea 17
+metro Улица Старокачаловская
+floor 1
+price 4650000
+area 33
+elevator 1 пасс.
+timeToMetro 7
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 158244925
+builtAt 1976
+bathrooms 1
+netArea 19
+metro Шипиловская
+floor 1
+price 4700000
+area 34
+elevator 1 пасс.
+timeToMetro 6
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 160420310
+builtAt 1967
+bathrooms 1
+netArea 18
+metro Щелковская
+floor 5
+price 4700000
+area 31
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162429091
+builtAt 1961
+bathrooms 1
+netArea 19
+metro Новогиреево
+floor 2
+price 4700000
+area 30
+elevator –
+timeToMetro 8
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony –
+--------------------------
+itemId 162336606
+builtAt 1961
+bathrooms 1
+netArea 17
+metro Нагорная
+floor 4
+price 4700000
+area 30.3
+elevator 1 пасс.
+timeToMetro 18
+floors 8
+rooms 1
+view двор и улица
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 152431363
+builtAt 1964
+bathrooms 1
+netArea 19
+metro Нагорная
+floor 1
+price 4690000
+area 32
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 9
+rooms 1
+view улица
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 162987460
+builtAt 1969
+bathrooms 1
+netArea 19
+metro Щелковская
+floor 3
+price 4700000
+area 33
+elevator 1 пасс.
+timeToMetro 19
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 156897521
+builtAt 1973
+bathrooms 1
+netArea 18.6
+metro Рязанский проспект
+floor 7
+price 4650000
+area 32.6
+elevator 1 пасс.
+timeToMetro 13
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 151947390
+builtAt 1969
+bathrooms 1
+netArea 18
+metro Перово
+floor 1
+price 4650000
+area 34
+elevator 2 пасс.
+timeToMetro 15
+floors 12
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 161730148
+builtAt 1974
+bathrooms 1
+netArea 19.1
+metro Выхино
+floor 11
+price 5400000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 162432952
+builtAt 1994
+bathrooms 1
+netArea 19
+metro Улица Скобелевская
+floor 11
+price 6200000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 3
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 157038626
+builtAt 1971
+bathrooms 1
+netArea 20
+metro Рязанский проспект
+floor 1
+price 4800000
+area 33.5
+elevator –
+timeToMetro 20
+floors 14
+rooms 1
+view двор
+buildingType блочный
+renovation евроремонт
+balcony 1 балк. + 1 лодж.
+--------------------------
+itemId 158658420
+builtAt 2001
+bathrooms -
+netArea 20.3
+metro Улица Горчакова
+floor 2
+price 4749000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161987442
+builtAt -
+bathrooms 1
+netArea 23
+metro Бауманская
+floor 1
+price 4700000
+area 32
+elevator нет
+timeToMetro 10
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony нет
+--------------------------
+itemId 162572972
+builtAt 1973
+bathrooms 1
+netArea 15.4
+metro Преображенская площадь
+floor 7
+price 4700000
+area 20.7
+elevator 1 пасс. + 1 груз.
+timeToMetro 20
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony –
+--------------------------
+itemId 155698668
+builtAt 1974
+bathrooms 1
+netArea 15
+metro Текстильщики
+floor 2
+price 4699990
+area 30
+elevator –
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 159293307
+builtAt 1981
+bathrooms 1
+netArea 19
+metro Печатники
+floor 1
+price 4700000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 18
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 160867990
+builtAt 1967
+bathrooms 1
+netArea –
+metro Соколиная гора
+floor 2
+price 4700000
+area 27
+elevator 1 пасс.
+timeToMetro 14
+floors 9
+rooms 1
+view улица
+buildingType кирпичный
+renovation косметический
+balcony –
+--------------------------
+itemId 157660741
+builtAt 1971
+bathrooms 1
+netArea 20
+metro Рязанский проспект
+floor 1
+price 4800000
+area 33.5
+elevator 1 пасс. + 1 груз.
+timeToMetro 25
+floors 14
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 159315861
+builtAt 1969
+bathrooms 1
+netArea 19.1
+metro Щелковская
+floor 1
+price 4750000
+area 34.3
+elevator –
+timeToMetro 12
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony –
+--------------------------
+itemId 161989238
+builtAt 1959
+bathrooms 1
+netArea 17
+metro Преображенская площадь
+floor 1
+price 4800000
+area 30
+elevator –
+timeToMetro 5
+floors 5
+rooms 1
+view –
+buildingType кирпичный
+renovation косметический
+balcony –
+--------------------------
+itemId 152690719
+builtAt 1962
+bathrooms 1
+netArea 19
+metro Перово
+floor 1
+price 4750000
+area 31
+elevator –
+timeToMetro 12
+floors 5
+rooms 1
+view –
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 156593829
+builtAt 1958
+bathrooms 1
+netArea 18.4
+metro Молодежная
+floor 3
+price 4800000
+area 35.1
+elevator –
+timeToMetro 14
+floors 5
+rooms 1
+view улица
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 161839561
+builtAt 1973
+bathrooms 1
+netArea 19
+metro Орехово
+floor 6
+price 4800000
+area 33
+elevator 1 пасс.
+timeToMetro 8
+floors 9
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 162568988
+builtAt -
+bathrooms -
+netArea 18
+metro Улица Академика Янгеля
+floor 6
+price 4750000
+area 33
+elevator 1 пасс.
+timeToMetro 4
+floors 9
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony нет
+--------------------------
+itemId 154936224
+builtAt 1961
+bathrooms 1
+netArea 18.2
+metro Семеновская
+floor 5
+price 4800000
+area 32
+elevator –
+timeToMetro 11
+floors 5
+rooms 1
+view улица
+buildingType панельный дом
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 162825123
+builtAt -
+bathrooms 1
+netArea –
+metro Выхино
+floor 8
+price 4800000
+area 33
+elevator 1 пасс.
+timeToMetro 6
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony –
+--------------------------
+itemId 158090542
+builtAt 1963
+bathrooms 1
+netArea 19
+metro Речной вокзал
+floor 5
+price 4800000
+area 31
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор и улица
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161551525
+builtAt 1969
+bathrooms 1
+netArea 19
+metro Первомайская
+floor 6
+price 4800000
+area 33.2
+elevator 1 пасс.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 162762442
+builtAt 1970
+bathrooms 1
+netArea 19
+metro Южная
+floor 1
+price 4800000
+area 32
+elevator 1 пасс.
+timeToMetro 14
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 154186842
+builtAt 1970
+bathrooms 1
+netArea 19
+metro Выхино
+floor 2
+price 4800000
+area 33
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation евроремонт
+balcony –
+--------------------------
+itemId 153158127
+builtAt 1975
+bathrooms 1
+netArea 19
+metro Домодедовская
+floor 1
+price 4800000
+area 34
+elevator –
+timeToMetro 15
+floors 9
+rooms 1
+view –
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 161569837
+builtAt -
+bathrooms 1
+netArea 20
+metro Каховская
+floor 5
+price 4800000
+area 32
+elevator –
+timeToMetro 10
+floors 5
+rooms 1
+view двор
+buildingType вторичка
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 159912432
+builtAt 1963
+bathrooms 1
+netArea 12.6
+metro Преображенская площадь
+floor 7
+price 4750000
+area 20.6
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 10
+rooms 1
+view двор
+buildingType кирпичный
+renovation евроремонт
+balcony нет
+--------------------------
+itemId 159599437
+builtAt 1968
+bathrooms 1
+netArea 19
+metro Новогиреево
+floor 6
+price 4800000
+area 30
+elevator –
+timeToMetro 20
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 157420345
+builtAt -
+bathrooms 1
+netArea 21
+metro Домодедовская
+floor 4
+price 4900000
+area 35
+elevator 1 пасс.
+timeToMetro 5
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony 1 лодж.
+--------------------------
+itemId 162780098
+builtAt 1966
+bathrooms 1
+netArea 21.3
+metro Перово
+floor 1
+price 4900000
+area 32.1
+elevator 1 пасс.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 38760953
+builtAt 1982
+bathrooms -
+netArea 20
+metro Строгино
+floor 1
+price 7500000
+area 39
+elevator 1 пасс. + 4 груз.
+timeToMetro 11
+floors 17
+rooms 1
+view двор
+buildingType вторичка
+renovation дизайнерский
+balcony –
+--------------------------
+itemId 159194547
+builtAt -
+bathrooms -
+netArea –
+metro Полянка
+floor 2
+price 323000$
+area 34
+elevator нет
+timeToMetro 5
+floors 7
+rooms 1
+view двор и улица
+buildingType кирпично-монолитный
+renovation -
+balcony нет
+--------------------------
+itemId 162152225
+builtAt 2001
+bathrooms -
+netArea 15
+metro Улица Горчакова
+floor 2
+price 5300000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation евроремонт
+balcony –
+--------------------------
+itemId 157579990
+builtAt 2001
+bathrooms -
+netArea 15
+metro Бунинская аллея
+floor 3
+price 4900000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 157629363
+builtAt 1974
+bathrooms 1
+netArea 18
+metro Печатники
+floor 12
+price 4850000
+area 37
+elevator 2 пасс.
+timeToMetro 8
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 161840610
+builtAt 1971
+bathrooms 1
+netArea 20
+metro Выхино
+floor 3
+price 4900000
+area 34
+elevator 1 пасс.
+timeToMetro 7
+floors 9
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 160629397
+builtAt 1973
+bathrooms 1
+netArea 19.8
+metro Братиславская
+floor 10
+price 4900000
+area 35
+elevator 1 пасс.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162958489
+builtAt 1969
+bathrooms 1
+netArea 18
+metro Южная
+floor 3
+price 4900000
+area 33
+elevator 1 пасс.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 161942356
+builtAt -
+bathrooms 1
+netArea 20
+metro Алма-Атинская
+floor 2
+price 4900000
+area 38
+elevator 1 пасс.
+timeToMetro 10
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony нет
+--------------------------
+itemId 159490742
+builtAt -
+bathrooms 1
+netArea 19
+metro Печатники
+floor 12
+price 4850000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony нет
+--------------------------
+itemId 162952520
+builtAt 1995
+bathrooms 1
+netArea 18
+metro Алма-Атинская
+floor 2
+price 4900000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 159755532
+builtAt 1965
+bathrooms 1
+netArea –
+metro Лихоборы
+floor 1
+price 4930000
+area 33
+elevator 1 пасс.
+timeToMetro 20
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 162764039
+builtAt 2000
+bathrooms -
+netArea 21
+metro Бунинская аллея
+floor 3
+price 4900000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 14
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 159746348
+builtAt -
+bathrooms 1
+netArea 19.7
+metro Текстильщики
+floor 2
+price 4900000
+area 32
+elevator 1 пасс.
+timeToMetro 12
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony нет
+--------------------------
+itemId 162715549
+builtAt -
+bathrooms 1
+netArea 32
+metro Орехово
+floor 3
+price 4900000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 20
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 157349089
+builtAt 1972
+bathrooms -
+netArea 19
+metro Коньково
+floor 8
+price 4900000
+area 33
+elevator 1 пасс.
+timeToMetro 9
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony нет
+--------------------------
+itemId 161926720
+builtAt -
+bathrooms -
+netArea 21
+metro Бунинская аллея
+floor 5
+price 4850000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 7
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 157716400
+builtAt 1974
+bathrooms 1
+netArea 15
+metro Улица Академика Янгеля
+floor 6
+price 4850000
+area 26.6
+elevator 1 пасс.
+timeToMetro 8
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 148797270
+builtAt -
+bathrooms 1
+netArea 18
+metro Тушинская
+floor 5
+price 4900000
+area 30
+elevator –
+timeToMetro 15
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 147843598
+builtAt -
+bathrooms 1
+netArea 20
+metro Щелковская
+floor 1
+price 5000000
+area 32
+elevator –
+timeToMetro 4
+floors 5
+rooms 1
+view двор и улица
+buildingType вторичка
+renovation евроремонт
+balcony –
+--------------------------
+itemId 161431640
+builtAt 1999
+bathrooms -
+netArea 20
+metro Улица Горчакова
+floor 8
+price 4950000
+area 40
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 154192710
+builtAt 1970
+bathrooms 1
+netArea 20.5
+metro Первомайская
+floor 3
+price 5000000
+area 29.9
+elevator 1 пасс.
+timeToMetro 10
+floors 8
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159374195
+builtAt 1961
+bathrooms 1
+netArea 14
+metro Войковская
+floor 8
+price 5000000
+area 26
+elevator 1 пасс.
+timeToMetro 10
+floors 8
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony –
+--------------------------
+itemId 161989363
+builtAt 1971
+bathrooms 1
+netArea 20
+metro Царицыно
+floor 6
+price 5000000
+area 35
+elevator 1 пасс.
+timeToMetro 7
+floors 14
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162710312
+builtAt -
+bathrooms -
+netArea 18.8
+metro Царицыно
+floor 7
+price 5000000
+area 32.6
+elevator 1 пасс.
+timeToMetro 5
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony –
+--------------------------
+itemId 161577332
+builtAt 1969
+bathrooms 1
+netArea 18.7
+metro Медведково
+floor 5
+price 4950000
+area 32.6
+elevator 1 пасс.
+timeToMetro 7
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 153942196
+builtAt 1961
+bathrooms 1
+netArea 20
+metro Войковская
+floor 2
+price 4950000
+area 31.4
+elevator 1 пасс.
+timeToMetro 7
+floors 5
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161848934
+builtAt 1963
+bathrooms 1
+netArea 18.6
+metro Сходненская
+floor 5
+price 5000000
+area 31.3
+elevator 1 пасс.
+timeToMetro 15
+floors 8
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159151422
+builtAt -
+bathrooms 1
+netArea 25
+metro Сухаревская
+floor 4
+price 18289752
+area 48.8
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 8
+rooms 1
+view двор и улица
+buildingType монолитный
+renovation -
+balcony нет
+--------------------------
+itemId 159475880
+builtAt -
+bathrooms -
+netArea 17
+metro Щелковская
+floor 3
+price 5000000
+area 30.4
+elevator нет
+timeToMetro 5
+floors 5
+rooms 1
+view двор и улица
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 160636803
+builtAt -
+bathrooms 1
+netArea 20
+metro Печатники
+floor 8
+price 7150000
+area 48
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 144769203
+builtAt 1960
+bathrooms -
+netArea 18
+metro Нагорная
+floor 2
+price 4999000
+area 30.3
+elevator –
+timeToMetro 17
+floors 5
+rooms 1
+view двор и улица
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 148619166
+builtAt 2003
+bathrooms -
+netArea 18
+metro Улица Скобелевская
+floor 2
+price 4950000
+area 40
+elevator 1 пасс. + 1 груз.
+timeToMetro 16
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 162237754
+builtAt 1995
+bathrooms 1
+netArea 19
+metro Новокосино
+floor 14
+price 5000000
+area 38.5
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159853794
+builtAt 1964
+bathrooms 1
+netArea 18.4
+metro Каховская
+floor 4
+price 5000000
+area 30.3
+elevator –
+timeToMetro 17
+floors 5
+rooms 1
+view улица
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 153713312
+builtAt -
+bathrooms 1
+netArea 20
+metro Марьино
+floor 2
+price 5000000
+area 40
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 16
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162069406
+builtAt -
+bathrooms 1
+netArea 19
+metro Перово
+floor 3
+price 4950000
+area 31
+elevator –
+timeToMetro 9
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 162118939
+builtAt 1973
+bathrooms 1
+netArea 17
+metro Беляево
+floor 9
+price 5000000
+area 32
+elevator 2 пасс.
+timeToMetro 15
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159012807
+builtAt 1974
+bathrooms -
+netArea 19
+metro Алтуфьево
+floor 2
+price 4950000
+area 33
+elevator 1 пасс.
+timeToMetro 13
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 161884921
+builtAt 2006
+bathrooms 1
+netArea 19
+metro Бунинская аллея
+floor 3
+price 5000000
+area 37.6
+elevator 1 пасс. + 1 груз.
+timeToMetro 18
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 160574127
+builtAt 2009
+bathrooms -
+netArea 16.9
+metro Улица Скобелевская
+floor 9
+price 4999000
+area 37.9
+elevator 1 пасс. + 1 груз.
+timeToMetro 16
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162646275
+builtAt -
+bathrooms 1
+netArea 18.6
+metro Тушинская
+floor 5
+price 4950000
+area 31.4
+elevator нет
+timeToMetro 10
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 162254959
+builtAt -
+bathrooms -
+netArea 14
+metro Отрадное
+floor 6
+price 4950000
+area 27
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 9
+rooms 1
+view улица
+buildingType блочный
+renovation -
+balcony нет
+--------------------------
+itemId 162070093
+builtAt 1963
+bathrooms 1
+netArea 18
+metro Каховская
+floor 4
+price 4950000
+area 31
+elevator –
+timeToMetro 16
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 157830904
+builtAt 2000
+bathrooms -
+netArea 15
+metro Братиславская
+floor 1
+price 4950000
+area 34
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 161043183
+builtAt 1995
+bathrooms 1
+netArea 19.2
+metro Жулебино
+floor 1
+price 4990000
+area 37.2
+elevator 1 пасс. + 1 груз.
+timeToMetro 9
+floors 14
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 155952796
+builtAt 1963
+bathrooms 1
+netArea 20
+metro Свиблово
+floor 6
+price 5000000
+area 33
+elevator 1 пасс.
+timeToMetro 12
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162776578
+builtAt -
+bathrooms 1
+netArea –
+metro Тимирязевская
+floor 1
+price 5000000
+area 34
+elevator нет
+timeToMetro 4
+floors 9
+rooms 1
+view –
+buildingType вторичка
+renovation косметический
+balcony нет
+--------------------------
+itemId 162446654
+builtAt 1969
+bathrooms 1
+netArea 17
+metro Братиславская
+floor 2
+price 5000000
+area 29.7
+elevator 1 пасс.
+timeToMetro 13
+floors 9
+rooms 1
+view –
+buildingType кирпичный
+renovation косметический
+balcony –
+--------------------------
+itemId 158225420
+builtAt 1974
+bathrooms 1
+netArea 15.5
+metro Филевский парк
+floor 1
+price 5100000
+area 25.1
+elevator 1 пасс.
+timeToMetro 9
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 160947439
+builtAt 1961
+bathrooms 1
+netArea 19.8
+metro Полежаевская
+floor 3
+price 5099999
+area 32
+elevator –
+timeToMetro 15
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 150996285
+builtAt -
+bathrooms -
+netArea 24
+metro Улица Горчакова
+floor 5
+price 5100000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 12
+rooms 1
+view двор
+buildingType вторичка
+renovation евроремонт
+balcony –
+--------------------------
+itemId 162088742
+builtAt 1962
+bathrooms -
+netArea 19
+metro Щелковская
+floor 6
+price 5050000
+area 32
+elevator 1 пасс.
+timeToMetro 10
+floors 6
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 158592386
+builtAt 1994
+bathrooms -
+netArea 20
+metro Лермонтовский проспект
+floor 8
+price 5050000
+area 37
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 17
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 160657279
+builtAt 2001
+bathrooms -
+netArea 20
+metro Улица Скобелевская
+floor 9
+price 5050000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159833997
+builtAt 1986
+bathrooms 1
+netArea 20
+metro Шипиловская
+floor 1
+price 5090000
+area 39
+elevator 1 пасс.
+timeToMetro 14
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 154132033
+builtAt 1966
+bathrooms -
+netArea 17
+metro Перово
+floor 5
+price 4500000
+area 28
+elevator –
+timeToMetro 18
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161839729
+builtAt -
+bathrooms 1
+netArea 18
+metro Беляево
+floor 9
+price 5990000
+area 32
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony нет
+--------------------------
+itemId 162762434
+builtAt 1987
+bathrooms 1
+netArea 19
+metro Свиблово
+floor 9
+price 6350000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 3
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162825311
+builtAt -
+bathrooms -
+netArea 18
+metro Южная
+floor 8
+price 5090000
+area 33
+elevator 1 пасс.
+timeToMetro 7
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony –
+--------------------------
+itemId 162549099
+builtAt 1966
+bathrooms 1
+netArea 20
+metro Окружная
+floor 9
+price 5100000
+area 33
+elevator 1 пасс.
+timeToMetro 3
+floors 10
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159182111
+builtAt 1973
+bathrooms 1
+netArea 19.7
+metro Улица Академика Янгеля
+floor 10
+price 5100000
+area 35.2
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 156486799
+builtAt 1976
+bathrooms -
+netArea 19
+metro Алтуфьево
+floor 5
+price 5100000
+area 38
+elevator 2 пасс.
+timeToMetro 19
+floors 12
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 157419050
+builtAt 1973
+bathrooms 1
+netArea 20
+metro Новогиреево
+floor 3
+price 5050000
+area 40
+elevator 2 пасс.
+timeToMetro 10
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161849613
+builtAt 2015
+bathrooms -
+netArea 18
+metro Бунинская аллея
+floor 8
+price 5050000
+area 42
+elevator 1 пасс. + 1 груз.
+timeToMetro 20
+floors 17
+rooms 1
+view улица
+buildingType панельный дом
+renovation отсутствует
+balcony 1 лодж.
+--------------------------
+itemId 161642951
+builtAt -
+bathrooms 1
+netArea 19
+metro Медведково
+floor 6
+price 5100000
+area 32.7
+elevator 1 пасс.
+timeToMetro 9
+floors 9
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony нет
+--------------------------
+itemId 155032420
+builtAt 2002
+bathrooms -
+netArea 14
+metro Бульвар Адмирала Ушакова
+floor 16
+price 5100000
+area 37
+elevator –
+timeToMetro 10
+floors 17
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162272567
+builtAt 1974
+bathrooms 1
+netArea 18
+metro Орехово
+floor 6
+price 5100000
+area 33
+elevator 1 пасс.
+timeToMetro 6
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 156536188
+builtAt 1971
+bathrooms 1
+netArea 19
+metro Улица Академика Янгеля
+floor 7
+price 5100000
+area 33
+elevator 1 пасс.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 159023147
+builtAt 1969
+bathrooms 1
+netArea 19
+metro Медведково
+floor 4
+price 5150000
+area 35
+elevator 1 пасс.
+timeToMetro 6
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 159767388
+builtAt 1969
+bathrooms 1
+netArea 18.9
+metro Печатники
+floor 7
+price 5200000
+area 32
+elevator 1 пасс.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 162062617
+builtAt 1977
+bathrooms -
+netArea 18
+metro Шипиловская
+floor 12
+price 5200000
+area 33
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 158937527
+builtAt 1972
+bathrooms -
+netArea 18
+metro Беляево
+floor 2
+price 5199999
+area 33
+elevator 1 пасс.
+timeToMetro 24
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 160790047
+builtAt -
+bathrooms -
+netArea 18
+metro Бабушкинская
+floor 9
+price 5200000
+area 34
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 158454210
+builtAt 2001
+bathrooms -
+netArea 14.5
+metro Улица Скобелевская
+floor 6
+price 5150000
+area 35.5
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161916580
+builtAt -
+bathrooms 1
+netArea 19
+metro Петровско-Разумовская
+floor 4
+price 5200000
+area 32
+elevator 1 пасс.
+timeToMetro 2
+floors 9
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony нет
+--------------------------
+itemId 157859574
+builtAt 1969
+bathrooms 1
+netArea 20
+metro Крымская
+floor 1
+price 5150000
+area 35
+elevator 1 пасс.
+timeToMetro 13
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 162302017
+builtAt 2016
+bathrooms -
+netArea 17
+metro Рязанский проспект
+floor 2
+price 5150000
+area 39
+elevator 1 пасс.
+timeToMetro 10
+floors 18
+rooms 1
+view двор
+buildingType монолитный
+renovation отсутствует
+balcony 1 лодж.
+--------------------------
+itemId 157773753
+builtAt 1967
+bathrooms 1
+netArea 18.7
+metro Сходненская
+floor 5
+price 5200000
+area 32.6
+elevator 1 пасс.
+timeToMetro 5
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 158128042
+builtAt -
+bathrooms -
+netArea 18
+metro Бабушкинская
+floor 9
+price 5200000
+area 34
+elevator 1 пасс.
+timeToMetro 20
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162450185
+builtAt 1969
+bathrooms 1
+netArea 20
+metro Текстильщики
+floor 5
+price 5200000
+area 35.1
+elevator 1 пасс.
+timeToMetro 17
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161953986
+builtAt 1981
+bathrooms 1
+netArea 19
+metro Медведково
+floor 2
+price 5199000
+area 39
+elevator 2 пасс. + 2 груз.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType кирпичный
+renovation -
+balcony нет
+--------------------------
+itemId 160278187
+builtAt 1961
+bathrooms 1
+netArea 19.5
+metro Сокол
+floor 5
+price 5200000
+area 31
+elevator –
+timeToMetro 9
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159495183
+builtAt 1959
+bathrooms 1
+netArea 18.8
+metro Каширская
+floor 2
+price 5200000
+area 33.1
+elevator –
+timeToMetro 18
+floors 5
+rooms 1
+view улица
+buildingType кирпичный
+renovation косметический
+balcony –
+--------------------------
+itemId 156077334
+builtAt -
+bathrooms -
+netArea 33.3
+metro Кропоткинская
+floor 1
+price 19500000
+area 42.6
+elevator 1 пасс.
+timeToMetro 14
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 162554974
+builtAt -
+bathrooms 1
+netArea 20
+metro Щелковская
+floor 7
+price 5200000
+area 35
+elevator 1 пасс.
+timeToMetro 5
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 160659418
+builtAt 1960
+bathrooms 1
+netArea 22
+metro Филевский парк
+floor 3
+price 5890000
+area 31
+elevator 1 пасс.
+timeToMetro 9
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 156423681
+builtAt -
+bathrooms -
+netArea 17
+metro Партизанская
+floor 4
+price 5200000
+area 31
+elevator нет
+timeToMetro 10
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 161903238
+builtAt -
+bathrooms 1
+netArea 19
+metro Бульвар Дмитрия Донского
+floor 2
+price 5200000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 2
+floors 17
+rooms 1
+view двор
+buildingType вторичка
+renovation -
+balcony –
+--------------------------
+itemId 161837195
+builtAt 1964
+bathrooms 1
+netArea 18.5
+metro Нагорная
+floor 3
+price 5200000
+area 31
+elevator –
+timeToMetro 15
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162728081
+builtAt -
+bathrooms 1
+netArea 20
+metro Люблино
+floor 3
+price 5200000
+area 35.4
+elevator 1 пасс.
+timeToMetro 4
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 156790949
+builtAt 1964
+bathrooms 1
+netArea 21
+metro Волжская
+floor 8
+price 5190000
+area 33
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162798878
+builtAt 1960
+bathrooms 1
+netArea 19
+metro Нагорная
+floor 4
+price 5199000
+area 38
+elevator –
+timeToMetro 12
+floors 5
+rooms 1
+view –
+buildingType кирпичный
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 162756504
+builtAt 1968
+bathrooms 1
+netArea –
+metro Кузьминки
+floor 3
+price 5200000
+area 32
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 162239112
+builtAt 1975
+bathrooms -
+netArea 19
+metro Пражская
+floor 1
+price 5200000
+area 33
+elevator 1 груз.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony нет
+--------------------------
+itemId 162646453
+builtAt -
+bathrooms 1
+netArea 20
+metro Новогиреево
+floor 2
+price 5250000
+area 36
+elevator 1 пасс.
+timeToMetro 3
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 159934574
+builtAt 1961
+bathrooms 1
+netArea 20
+metro Текстильщики
+floor 2
+price 5300000
+area 32
+elevator –
+timeToMetro 3
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 159374210
+builtAt 1962
+bathrooms -
+netArea 15.2
+metro Нахимовский проспект
+floor 2
+price 5300000
+area 28.8
+elevator 1 пасс.
+timeToMetro 5
+floors 5
+rooms 1
+view –
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 154025738
+builtAt 1995
+bathrooms 1
+netArea 18
+metro Жулебино
+floor 3
+price 5300000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 4
+floors 10
+rooms 1
+view улица
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 158779960
+builtAt 1974
+bathrooms 1
+netArea 20
+metro Беляево
+floor 4
+price 5280000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 162980757
+builtAt 1978
+bathrooms -
+netArea 20
+metro Новоясеневская
+floor 10
+price 5300000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 16
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 160735939
+builtAt 1987
+bathrooms -
+netArea 21
+metro Текстильщики
+floor 14
+price 5250000
+area 40
+elevator –
+timeToMetro 14
+floors 14
+rooms 1
+view –
+buildingType блочный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162778146
+builtAt 1969
+bathrooms 1
+netArea 20
+metro Выхино
+floor 6
+price 5300000
+area 38
+elevator 2 пасс.
+timeToMetro 6
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159736907
+builtAt -
+bathrooms 1
+netArea 20
+metro Щелковская
+floor 10
+price 5300000
+area 36
+elevator 2 пасс.
+timeToMetro 12
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 162203360
+builtAt 1985
+bathrooms 1
+netArea 19.2
+metro Марьино
+floor 8
+price 5300000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 17
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161464479
+builtAt 1971
+bathrooms -
+netArea 22
+metro Южная
+floor 1
+price 5300000
+area 31
+elevator 1 пасс.
+timeToMetro 4
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony –
+--------------------------
+itemId 158776368
+builtAt 1974
+bathrooms 1
+netArea 19
+metro Пражская
+floor 7
+price 5250000
+area 38.2
+elevator 2 пасс.
+timeToMetro 12
+floors 14
+rooms 1
+view улица
+buildingType блочный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 156077119
+builtAt -
+bathrooms 1
+netArea 20
+metro Улица Академика Янгеля
+floor 15
+price 5300000
+area 36.1
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 16
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 157000845
+builtAt -
+bathrooms 1
+netArea –
+metro Бабушкинская
+floor 5
+price 5300000
+area 31
+elevator –
+timeToMetro 15
+floors 5
+rooms 1
+view –
+buildingType вторичка
+renovation -
+balcony нет
+--------------------------
+itemId 162604145
+builtAt 1968
+bathrooms 1
+netArea 20
+metro Войковская
+floor 9
+price 5290000
+area 38
+elevator 2 пасс.
+timeToMetro 5
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161485332
+builtAt 1995
+bathrooms -
+netArea 21
+metro Марьино
+floor 6
+price 5300000
+area 39
+elevator 2 пасс.
+timeToMetro 6
+floors 8
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 2 лодж.
+--------------------------
+itemId 162288900
+builtAt -
+bathrooms 1
+netArea 20
+metro Волоколамская
+floor 8
+price 5300000
+area 33
+elevator 2 пасс.
+timeToMetro 20
+floors 12
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 154981446
+builtAt -
+bathrooms -
+netArea 25
+metro Университет
+floor 8
+price 17300000
+area 61
+elevator 1 пасс.
+timeToMetro 10
+floors 20
+rooms 1
+view двор
+buildingType кирпично-монолитный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 162345470
+builtAt 2012
+bathrooms 1
+netArea 19
+metro Балтийская
+floor 17
+price 8000000
+area 39
+elevator 1 пасс.
+timeToMetro 12
+floors 25
+rooms 1
+view улица
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 162152225
+builtAt 2001
+bathrooms -
+netArea 15
+metro Улица Горчакова
+floor 2
+price 5300000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation евроремонт
+balcony –
+--------------------------
+itemId 148750481
+builtAt 1964
+bathrooms 1
+netArea 21
+metro Сходненская
+floor 7
+price 5300000
+area 31.2
+elevator 1 груз.
+timeToMetro 17
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 158797885
+builtAt 1963
+bathrooms 1
+netArea 19
+metro Первомайская
+floor 5
+price 5300000
+area 31
+elevator нет
+timeToMetro 8
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162858448
+builtAt 1979
+bathrooms 1
+netArea 19.1
+metro Алтуфьево
+floor 5
+price 5300000
+area 37.3
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 16
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 160698643
+builtAt 1964
+bathrooms -
+netArea 18
+metro Первомайская
+floor 4
+price 5299000
+area 31
+elevator –
+timeToMetro 17
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162035698
+builtAt 1960
+bathrooms -
+netArea 19.4
+metro Перово
+floor 2
+price 5300000
+area 36.5
+elevator –
+timeToMetro 7
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161638856
+builtAt -
+bathrooms 1
+netArea 18
+metro Новогиреево
+floor 4
+price 5340000
+area 31
+elevator 1 пасс.
+timeToMetro -
+floors 9
+rooms 1
+view –
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 150565006
+builtAt 1967
+bathrooms 1
+netArea 27
+metro Щелковская
+floor 12
+price 5300000
+area 35.2
+elevator 1 пасс.
+timeToMetro 19
+floors 12
+rooms 1
+view двор и улица
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161578376
+builtAt 1963
+bathrooms 1
+netArea 20.4
+metro Щелковская
+floor 2
+price 5300000
+area 32.8
+elevator –
+timeToMetro 7
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 161915228
+builtAt 1961
+bathrooms 1
+netArea 26
+metro Кузьминки
+floor 7
+price 5300000
+area 31
+elevator 1 пасс.
+timeToMetro 14
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161075296
+builtAt 1997
+bathrooms -
+netArea 21
+metro Бунинская аллея
+floor 8
+price 5300000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 158910536
+builtAt 2000
+bathrooms 1
+netArea 15
+metro Беляево
+floor 2
+price 5250000
+area 34.4
+elevator 1 пасс. + 1 груз.
+timeToMetro 17
+floors 16
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony 1 лодж.
+--------------------------
+itemId 161582935
+builtAt 1985
+bathrooms -
+netArea 20.4
+metro Алма-Атинская
+floor 1
+price 5300000
+area 38.5
+elevator 2 пасс.
+timeToMetro 9
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 160109349
+builtAt 2003
+bathrooms -
+netArea 16.7
+metro Бунинская аллея
+floor 4
+price 5300000
+area 41.4
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 153023379
+builtAt 1966
+bathrooms 1
+netArea 19
+metro Рязанский проспект
+floor 7
+price 5250000
+area 32
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view улица
+buildingType вторичка
+renovation евроремонт
+balcony –
+--------------------------
+itemId 154615033
+builtAt 1961
+bathrooms 1
+netArea 21.4
+metro Новые Черемушки
+floor 1
+price 5400000
+area 31.6
+elevator –
+timeToMetro 13
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation евроремонт
+balcony –
+--------------------------
+itemId 160503242
+builtAt -
+bathrooms 1
+netArea 20
+metro Царицыно
+floor 6
+price 5350000
+area 36
+elevator 1 пасс.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 161485337
+builtAt -
+bathrooms -
+netArea 14.4
+metro Бульвар Дмитрия Донского
+floor 4
+price 5400000
+area 35.8
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony –
+--------------------------
+itemId 161989376
+builtAt 1992
+bathrooms -
+netArea 20.7
+metro Бульвар Дмитрия Донского
+floor 1
+price 5370000
+area 42
+elevator 1 пасс.
+timeToMetro 12
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 162289375
+builtAt 1976
+bathrooms -
+netArea 18.9
+metro Войковская
+floor 7
+price 5400000
+area 32.6
+elevator 1 пасс. + 1 груз.
+timeToMetro 11
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony –
+--------------------------
+itemId 161342742
+builtAt 1959
+bathrooms 1
+netArea 18
+metro Щелковская
+floor 3
+price 5390000
+area 33.2
+elevator –
+timeToMetro 8
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony –
+--------------------------
+itemId 157428198
+builtAt -
+bathrooms -
+netArea 18
+metro Шипиловская
+floor 6
+price 5400000
+area 33
+elevator 1 пасс.
+timeToMetro 2
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony –
+--------------------------
+itemId 162897101
+builtAt -
+bathrooms 1
+netArea 20
+metro Бабушкинская
+floor 10
+price 5390000
+area 35
+elevator 1 пасс.
+timeToMetro 6
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161690432
+builtAt 1969
+bathrooms 1
+netArea 20
+metro Медведково
+floor 2
+price 5400000
+area 34
+elevator 1 пасс.
+timeToMetro 6
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony –
+--------------------------
+itemId 157176380
+builtAt 1979
+bathrooms -
+netArea 19
+metro Строгино
+floor 3
+price 5400000
+area 33
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 9
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 162971752
+builtAt 1970
+bathrooms 1
+netArea 21.3
+metro Южная
+floor 8
+price 5400000
+area 34.6
+elevator 1 пасс.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 160068067
+builtAt -
+bathrooms -
+netArea 25
+metro Университет
+floor 4
+price 15300000
+area 61
+elevator 1 пасс.
+timeToMetro 10
+floors 20
+rooms 1
+view двор
+buildingType кирпично-монолитный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 159680602
+builtAt -
+bathrooms 1
+netArea 19
+metro Ленинский проспект
+floor 4
+price 7340000
+area 33
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 162784395
+builtAt -
+bathrooms 1
+netArea 19
+metro Новые Черемушки
+floor 16
+price 7650000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 17
+rooms 1
+view двор и улица
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162302194
+builtAt 1960
+bathrooms 1
+netArea 18
+metro Тульская
+floor 4
+price 5400000
+area 33
+elevator –
+timeToMetro 5
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 157720715
+builtAt 1975
+bathrooms 1
+netArea 19
+metro Люблино
+floor 7
+price 5400000
+area 37
+elevator 2 пасс.
+timeToMetro 8
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 156374965
+builtAt 1996
+bathrooms -
+netArea 14.6
+metro Пятницкое шоссе
+floor 16
+price 5400000
+area 34.1
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 16
+rooms 1
+view улица
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162892400
+builtAt 1986
+bathrooms -
+netArea –
+metro Алма-Атинская
+floor 9
+price 5399000
+area 39
+elevator 2 пасс.
+timeToMetro 9
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony 2 лодж.
+--------------------------
+itemId 162325701
+builtAt 1991
+bathrooms -
+netArea 21
+metro Бульвар Дмитрия Донского
+floor 9
+price 5400000
+area 42
+elevator 2 пасс.
+timeToMetro 9
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 2 лодж.
+--------------------------
+itemId 162256609
+builtAt 1972
+bathrooms 1
+netArea 20
+metro Пражская
+floor 11
+price 5350000
+area 36
+elevator 1 пасс.
+timeToMetro 9
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation евроремонт
+balcony –
+--------------------------
+itemId 162646514
+builtAt -
+bathrooms 1
+netArea 18
+metro Печатники
+floor 4
+price 5500000
+area 30
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony –
+--------------------------
+itemId 160515853
+builtAt 1968
+bathrooms 1
+netArea 20
+metro Царицыно
+floor 3
+price 5500000
+area 35
+elevator 1 пасс.
+timeToMetro 15
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161485344
+builtAt 1962
+bathrooms 1
+netArea 19
+metro Нагорная
+floor 7
+price 5450000
+area 32
+elevator 1 пасс.
+timeToMetro 13
+floors 9
+rooms 1
+view улица
+buildingType панельный дом
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 162907114
+builtAt -
+bathrooms -
+netArea 21
+metro Марьино
+floor 8
+price 5500000
+area 39
+elevator 1 пасс.
+timeToMetro 7
+floors 8
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 159315831
+builtAt 1964
+bathrooms 1
+netArea 20
+metro Севастопольская
+floor 2
+price 5500000
+area 32
+elevator –
+timeToMetro 12
+floors 5
+rooms 1
+view двор
+buildingType блочный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 161485338
+builtAt 1967
+bathrooms 1
+netArea 18
+metro Нахимовский проспект
+floor 8
+price 5500000
+area 35.2
+elevator 1 пасс.
+timeToMetro 12
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 151992437
+builtAt -
+bathrooms 1
+netArea 53
+metro Автозаводская
+floor 5
+price 5500000
+area 53
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 5
+rooms 1
+view двор
+buildingType вторичка
+renovation отсутствует
+balcony –
+--------------------------
+itemId 158532426
+builtAt 1969
+bathrooms -
+netArea 17.4
+metro Беляево
+floor 3
+price 5500000
+area 30.8
+elevator –
+timeToMetro 12
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 160282048
+builtAt 1994
+bathrooms 1
+netArea 19
+metro Лермонтовский проспект
+floor 12
+price 5500000
+area 40
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 17
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 153246831
+builtAt 1977
+bathrooms 1
+netArea 19.4
+metro Зябликово
+floor 5
+price 5500000
+area 33.2
+elevator –
+timeToMetro 13
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 160602606
+builtAt 2004
+bathrooms 1
+netArea 19
+metro Люблино
+floor 10
+price 5500000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162956741
+builtAt -
+bathrooms -
+netArea 17
+metro Улица Скобелевская
+floor 5
+price 5500000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 9
+rooms 1
+view улица
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 161941968
+builtAt -
+bathrooms 1
+netArea 19
+metro Кожуховская
+floor 4
+price 5500000
+area 30
+elevator 1 пасс.
+timeToMetro 11
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161924501
+builtAt 1968
+bathrooms 1
+netArea 16.6
+metro Динамо
+floor 9
+price 5500000
+area 27.2
+elevator 1 пасс.
+timeToMetro 2
+floors 12
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 37542790
+builtAt -
+bathrooms 1
+netArea 18.4
+metro Тушинская
+floor 4
+price 5500000
+area 30
+elevator –
+timeToMetro 10
+floors 5
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 45059505
+builtAt 1979
+bathrooms -
+netArea 19.1
+metro Строгино
+floor 2
+price 5450000
+area 32.1
+elevator 1 пасс.
+timeToMetro 8
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 161884205
+builtAt 1974
+bathrooms 1
+netArea 22
+metro Отрадное
+floor 2
+price 5500000
+area 35
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 162320780
+builtAt 1996
+bathrooms 1
+netArea 19.3
+metro Улица Скобелевская
+floor 11
+price 5500000
+area 39.6
+elevator 1 пасс. + 1 груз.
+timeToMetro 2
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161174502
+builtAt 1960
+bathrooms 1
+netArea 17
+metro Первомайская
+floor 5
+price 5500000
+area 33.3
+elevator –
+timeToMetro 13
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony –
+--------------------------
+itemId 158485224
+builtAt 1962
+bathrooms 1
+netArea 19.9
+metro Академическая
+floor 2
+price 6000000
+area 34.1
+elevator 2 пасс.
+timeToMetro 15
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 154797852
+builtAt 1971
+bathrooms 1
+netArea 17
+metro Беляево
+floor 3
+price 5600000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 12
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161485673
+builtAt 1985
+bathrooms 1
+netArea 19.2
+metro Борисово
+floor 9
+price 5650000
+area 38.3
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 17
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 160612243
+builtAt -
+bathrooms -
+netArea 17
+metro Речной вокзал
+floor 9
+price 5500000
+area 34
+elevator 3 пасс.
+timeToMetro 15
+floors 17
+rooms 1
+view двор
+buildingType блочный
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 150863029
+builtAt 1981
+bathrooms 1
+netArea 10
+metro Выхино
+floor 6
+price 5500000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType вторичка
+renovation евроремонт
+balcony –
+--------------------------
+itemId 162766970
+builtAt -
+bathrooms 1
+netArea 20
+metro Сходненская
+floor 1
+price 5500000
+area 35
+elevator нет
+timeToMetro 3
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony нет
+--------------------------
+itemId 159049380
+builtAt 2012
+bathrooms 1
+netArea –
+metro Красносельская
+floor 3
+price 5500000
+area 31
+elevator 2 пасс.
+timeToMetro 17
+floors 4
+rooms 1
+view улица
+buildingType кирпичный
+renovation отсутствует
+balcony нет
+--------------------------
+itemId 162187623
+builtAt 1962
+bathrooms 1
+netArea 20.8
+metro Авиамоторная
+floor 2
+price 5500000
+area 31.6
+elevator 1 пасс.
+timeToMetro 5
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 162876812
+builtAt -
+bathrooms -
+netArea 19
+metro Филевский парк
+floor 1
+price 5490000
+area 29
+elevator нет
+timeToMetro 3
+floors 5
+rooms 1
+view улица
+buildingType кирпичный
+renovation -
+balcony нет
+--------------------------
+itemId 162987458
+builtAt -
+bathrooms 1
+netArea 21.5
+metro Авиамоторная
+floor 2
+price 5500000
+area 32
+elevator 1 пасс.
+timeToMetro 5
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation евроремонт
+balcony нет
+--------------------------
+itemId 160689799
+builtAt 1994
+bathrooms 1
+netArea 20
+metro Лермонтовский проспект
+floor 12
+price 5490000
+area 40
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 17
+rooms 1
+view –
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 162632726
+builtAt 1958
+bathrooms -
+netArea 19
+metro Белокаменная
+floor 1
+price 5500000
+area 37
+elevator –
+timeToMetro 19
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony –
+--------------------------
+itemId 153717786
+builtAt 1961
+bathrooms 1
+netArea 17
+metro Молодежная
+floor 5
+price 5450000
+area 29
+elevator –
+timeToMetro 10
+floors 5
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162517506
+builtAt 1965
+bathrooms 1
+netArea 21
+metro ВДНХ
+floor 2
+price 5450000
+area 32
+elevator 1 пасс.
+timeToMetro 14
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 153920898
+builtAt 1983
+bathrooms 1
+netArea 18
+metro Медведково
+floor 11
+price 5450000
+area 37
+elevator 1 пасс. + 1 груз.
+timeToMetro 14
+floors 16
+rooms 1
+view улица
+buildingType вторичка
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162629581
+builtAt 1974
+bathrooms 1
+netArea 19.8
+metro Выхино
+floor 4
+price 5500000
+area 35.1
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 162972284
+builtAt 1969
+bathrooms -
+netArea 19.2
+metro Коптево
+floor 9
+price 5500000
+area 38
+elevator 2 пасс.
+timeToMetro 6
+floors 14
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 154735189
+builtAt 1990
+bathrooms 1
+netArea 19.2
+metro Марьино
+floor 7
+price 5500000
+area 39.2
+elevator 1 пасс. + 1 груз.
+timeToMetro 11
+floors 17
+rooms 1
+view улица
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161558800
+builtAt 1990
+bathrooms 1
+netArea 20
+metro Марьино
+floor 2
+price 5500000
+area 37
+elevator 1 пасс. + 1 груз.
+timeToMetro 11
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 161502069
+builtAt -
+bathrooms 1
+netArea 19
+metro Багратионовская
+floor 1
+price 5500000
+area 32
+elevator –
+timeToMetro 6
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony –
+--------------------------
+itemId 162150160
+builtAt 1999
+bathrooms -
+netArea –
+metro Кузьминки
+floor 2
+price 5450000
+area 35.6
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 153324378
+builtAt 1968
+bathrooms 1
+netArea 19
+metro Медведково
+floor 8
+price 5450000
+area 32
+elevator 1 груз.
+timeToMetro 7
+floors 9
+rooms 1
+view улица
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 160033555
+builtAt 1974
+bathrooms 1
+netArea 19.1
+metro Выхино
+floor 8
+price 5500000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation евроремонт
+balcony –
+--------------------------
+itemId 161888268
+builtAt 1986
+bathrooms -
+netArea 20
+metro Борисово
+floor 2
+price 5450000
+area 40
+elevator 1 пасс. + 1 груз.
+timeToMetro 13
+floors 22
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк. + 1 лодж.
+--------------------------
+itemId 155877866
+builtAt 1977
+bathrooms 1
+netArea 20.7
+metro Тушинская
+floor 2
+price 5500000
+area 38.6
+elevator 2 пасс.
+timeToMetro 15
+floors 12
+rooms 1
+view улица
+buildingType вторичка
+renovation дизайнерский
+balcony –
+--------------------------
+itemId 162903113
+builtAt 1999
+bathrooms -
+netArea 21
+metro Улица Горчакова
+floor 9
+price 5500000
+area 38.5
+elevator 1 пасс.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162570699
+builtAt 1964
+bathrooms 1
+netArea 21.3
+metro Профсоюзная
+floor 3
+price 5500000
+area 33
+elevator 1 пасс.
+timeToMetro 20
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 150801329
+builtAt 2003
+bathrooms -
+netArea 16
+metro Люблино
+floor 6
+price 5500000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 9
+floors 17
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 157778870
+builtAt -
+bathrooms -
+netArea 19
+metro Алма-Атинская
+floor 6
+price 6200000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 161809526
+builtAt 2001
+bathrooms 1
+netArea 25
+metro Текстильщики
+floor 6
+price 8500000
+area 45
+elevator 1 пасс. + 1 груз.
+timeToMetro 13
+floors 14
+rooms 1
+view двор
+buildingType монолитный
+renovation дизайнерский
+balcony 1 балк.
+--------------------------
+itemId 161990076
+builtAt -
+bathrooms -
+netArea 20.8
+metro Бульвар Дмитрия Донского
+floor 5
+price 5500000
+area 41.4
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 14
+rooms 1
+view двор и улица
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162893566
+builtAt 1979
+bathrooms -
+netArea –
+metro Строгино
+floor 1
+price 5500000
+area 32
+elevator 1 пасс.
+timeToMetro 17
+floors 9
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 161304452
+builtAt 1963
+bathrooms 1
+netArea 21.5
+metro Чертановская
+floor 8
+price 5500000
+area 31.2
+elevator 1 пасс.
+timeToMetro 5
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 158917680
+builtAt -
+bathrooms 1
+netArea 16.9
+metro Улица Скобелевская
+floor 11
+price 5500000
+area 37.9
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 балк. + 1 лодж.
+--------------------------
+itemId 158771301
+builtAt 2004
+bathrooms 1
+netArea 20
+metro Бунинская аллея
+floor 3
+price 5500000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 4
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 161540383
+builtAt 2017
+bathrooms 1
+netArea 15.4
+metro Аннино
+floor 18
+price 5500000
+area 35
+elevator 2 пасс. + 1 груз.
+timeToMetro 11
+floors 25
+rooms 1
+view двор
+buildingType монолитный
+renovation отсутствует
+balcony –
+--------------------------
+itemId 148848857
+builtAt 1995
+bathrooms -
+netArea 14.3
+metro Марьино
+floor 5
+price 5450000
+area 36.5
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161825425
+builtAt 1981
+bathrooms -
+netArea 18
+metro Люблино
+floor 4
+price 5600000
+area 37
+elevator 2 пасс.
+timeToMetro 9
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162646471
+builtAt -
+bathrooms -
+netArea 15
+metro Улица Скобелевская
+floor 9
+price 5600000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 159020507
+builtAt 1985
+bathrooms 1
+netArea 19.2
+metro Борисово
+floor 3
+price 5600000
+area 38.2
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 17
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159315927
+builtAt 1975
+bathrooms 1
+netArea 19
+metro Чертановская
+floor 8
+price 5580000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation -
+balcony –
+--------------------------
+itemId 161850274
+builtAt 1998
+bathrooms 1
+netArea 19
+metro Братиславская
+floor 5
+price 5550000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 6
+floors 17
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 160071879
+builtAt -
+bathrooms 1
+netArea 18
+metro Нижегородская
+floor 1
+price 5550000
+area 33.6
+elevator нет
+timeToMetro 6
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony нет
+--------------------------
+itemId 157967657
+builtAt 1983
+bathrooms -
+netArea 14.3
+metro Юго-Западная
+floor 1
+price 5600000
+area 35.7
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony –
+--------------------------
+itemId 161554865
+builtAt 1972
+bathrooms 1
+netArea 17
+metro Беляево
+floor 7
+price 5600000
+area 33
+elevator 1 пасс.
+timeToMetro 18
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 159307470
+builtAt -
+bathrooms 1
+netArea 20
+metro Беляево
+floor 4
+price 5600000
+area 32
+elevator 1 пасс.
+timeToMetro 10
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 157248336
+builtAt 1966
+bathrooms 1
+netArea 20
+metro Молодежная
+floor 1
+price 5600000
+area 35
+elevator 1 пасс.
+timeToMetro 10
+floors 12
+rooms 1
+view –
+buildingType панельный дом
+renovation евроремонт
+balcony –
+--------------------------
+itemId 162022372
+builtAt -
+bathrooms 1
+netArea 18
+metro Профсоюзная
+floor 3
+price 5600000
+area 36
+elevator нет
+timeToMetro 5
+floors 9
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 158381610
+builtAt 1969
+bathrooms 1
+netArea 19.9
+metro Водный стадион
+floor 6
+price 5600000
+area 34.7
+elevator 1 пасс.
+timeToMetro 16
+floors 12
+rooms 1
+view двор и улица
+buildingType блочный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 159932968
+builtAt -
+bathrooms 1
+netArea 19
+metro Алма-Атинская
+floor 8
+price 5600000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 161847914
+builtAt -
+bathrooms 1
+netArea 19
+metro Войковская
+floor 2
+price 5600000
+area 31
+elevator –
+timeToMetro 15
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 161516453
+builtAt 2005
+bathrooms 1
+netArea 19
+metro Коптево
+floor 2
+price 5550000
+area 37.8
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161251619
+builtAt -
+bathrooms -
+netArea 19.5
+metro Бибирево
+floor 11
+price 5600000
+area 34.5
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 16
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 153403709
+builtAt 2016
+bathrooms 1
+netArea 24
+metro Митино
+floor 7
+price 5600000
+area 30.5
+elevator 4 пасс. + 1 груз.
+timeToMetro 11
+floors 25
+rooms 1
+view двор
+buildingType вторичка
+renovation дизайнерский
+balcony –
+--------------------------
+itemId 162825002
+builtAt -
+bathrooms 1
+netArea 19
+metro Филевский парк
+floor 1
+price 5550000
+area 29
+elevator 1 пасс.
+timeToMetro 7
+floors 9
+rooms 1
+view двор и улица
+buildingType блочный
+renovation -
+balcony –
+--------------------------
+itemId 161175315
+builtAt 1964
+bathrooms 1
+netArea 20
+metro Кантемировская
+floor 4
+price 5600000
+area 32
+elevator –
+timeToMetro 7
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation дизайнерский
+balcony 1 балк.
+--------------------------
+itemId 157443372
+builtAt 2004
+bathrooms 1
+netArea 20
+metro Щелковская
+floor 8
+price 6470000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 14
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 158177920
+builtAt 2009
+bathrooms 1
+netArea 19.2
+metro Речной вокзал
+floor 19
+price 7800000
+area 40
+elevator 1 пасс. + 1 груз.
+timeToMetro 20
+floors 25
+rooms 1
+view улица
+buildingType монолитный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 148689844
+builtAt 2016
+bathrooms -
+netArea 23
+metro Нагорная
+floor 22
+price 11500000
+area 53.8
+elevator 1 пасс.
+timeToMetro 6
+floors 22
+rooms 1
+view двор и улица
+buildingType монолитный
+renovation отсутствует
+balcony 1 лодж.
+--------------------------
+itemId 152254936
+builtAt 1986
+bathrooms -
+netArea 19.8
+metro Борисово
+floor 5
+price 5600000
+area 40
+elevator 2 пасс. + 1 груз.
+timeToMetro 10
+floors 22
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161126852
+builtAt 1973
+bathrooms 1
+netArea 15
+metro Сокол
+floor 7
+price 5600000
+area 25
+elevator 1 пасс.
+timeToMetro 7
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 162003643
+builtAt 1997
+bathrooms 1
+netArea 20
+metro Новокосино
+floor 5
+price 5600000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 17
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162288250
+builtAt 1991
+bathrooms -
+netArea 21
+metro Братиславская
+floor 12
+price 5600000
+area 39.5
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 2 лодж.
+--------------------------
+itemId 160878343
+builtAt -
+bathrooms 1
+netArea 19.2
+metro Беляево
+floor 5
+price 5600000
+area 33.2
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony нет
+--------------------------
+itemId 154591623
+builtAt 1995
+bathrooms -
+netArea 21
+metro Жулебино
+floor 3
+price 5550000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 6
+floors 14
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 162792261
+builtAt 1968
+bathrooms 1
+netArea 20
+metro Коломенская
+floor 8
+price 5600000
+area 37
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 153159916
+builtAt 1975
+bathrooms -
+netArea 21
+metro Бибирево
+floor 3
+price 5600000
+area 38.9
+elevator –
+timeToMetro 15
+floors 12
+rooms 1
+view улица
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 162554783
+builtAt 1999
+bathrooms 1
+netArea 18.7
+metro Улица Горчакова
+floor 1
+price 5600000
+area 37.6
+elevator 1 пасс.
+timeToMetro 8
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 162632582
+builtAt 1971
+bathrooms 1
+netArea 22
+metro Коломенская
+floor 9
+price 5600000
+area 35.6
+elevator 1 пасс.
+timeToMetro 16
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 151426660
+builtAt 1969
+bathrooms -
+netArea 18.4
+metro Южная
+floor 8
+price 5650000
+area 33.4
+elevator 1 пасс.
+timeToMetro 7
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony –
+--------------------------
+itemId 158231263
+builtAt 1996
+bathrooms 1
+netArea 19.5
+metro Улица Скобелевская
+floor 16
+price 5700000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 3
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159878146
+builtAt 1967
+bathrooms 1
+netArea 19
+metro Планерная
+floor 4
+price 5650000
+area 33
+elevator 1 пасс.
+timeToMetro 7
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 160271733
+builtAt -
+bathrooms 1
+netArea 25
+metro Митино
+floor 15
+price 5650000
+area 33.6
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 25
+rooms 1
+view двор
+buildingType монолитный
+renovation дизайнерский
+balcony нет
+--------------------------
+itemId 161023936
+builtAt 1975
+bathrooms -
+netArea 20.7
+metro Улица Академика Янгеля
+floor 8
+price 5700000
+area 38.5
+elevator 1 пасс.
+timeToMetro 10
+floors 12
+rooms 1
+view улица
+buildingType панельный дом
+renovation отсутствует
+balcony 2 балк.
+--------------------------
+itemId 158427313
+builtAt -
+bathrooms 1
+netArea 18
+metro Новогиреево
+floor 8
+price 5700000
+area 30
+elevator 1 пасс.
+timeToMetro 5
+floors 9
+rooms 1
+view –
+buildingType кирпичный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 154986658
+builtAt 2000
+bathrooms -
+netArea 20
+metro Люблино
+floor 3
+price 5700000
+area 40
+elevator –
+timeToMetro 16
+floors 22
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161573799
+builtAt 1968
+bathrooms 1
+netArea 19
+metro Сходненская
+floor 7
+price 5650000
+area 33
+elevator нет
+timeToMetro 8
+floors 9
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony нет
+--------------------------
+itemId 156836841
+builtAt -
+bathrooms -
+netArea 20.8
+metro Новокосино
+floor 2
+price 5700000
+area 39
+elevator 1 пасс.
+timeToMetro 8
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation -
+balcony –
+--------------------------
+itemId 162455140
+builtAt 1986
+bathrooms -
+netArea 21
+metro Алма-Атинская
+floor 8
+price 5700000
+area 39
+elevator 1 пасс.
+timeToMetro 13
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 154289490
+builtAt -
+bathrooms 1
+netArea 20
+metro Новые Черемушки
+floor 3
+price 5686856
+area 35
+elevator 3 пасс. + 1 груз.
+timeToMetro 5
+floors 6
+rooms 1
+view двор
+buildingType вторичка
+renovation отсутствует
+balcony –
+--------------------------
+itemId 162646465
+builtAt -
+bathrooms -
+netArea 17
+metro Улица Скобелевская
+floor 11
+price 5700000
+area 37.8
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 14
+rooms 1
+view двор и улица
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 162884130
+builtAt 1987
+bathrooms 1
+netArea 19
+metro Новокосино
+floor 11
+price 5650000
+area 38
+elevator 1 пасс.
+timeToMetro 13
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159736336
+builtAt -
+bathrooms 1
+netArea 19.2
+metro Первомайская
+floor 5
+price 5700000
+area 32
+elevator 1 пасс.
+timeToMetro 3
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 158270666
+builtAt 1988
+bathrooms 1
+netArea 20
+metro Печатники
+floor 3
+price 5700000
+area 40
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 162573779
+builtAt -
+bathrooms 1
+netArea 47
+metro Чертановская
+floor 34
+price 17500000
+area 67
+elevator 2 пасс. + 2 груз.
+timeToMetro 5
+floors 41
+rooms 1
+view улица
+buildingType монолитный
+renovation дизайнерский
+balcony нет
+--------------------------
+itemId 160659418
+builtAt 1960
+bathrooms 1
+netArea 22
+metro Филевский парк
+floor 3
+price 5890000
+area 31
+elevator 1 пасс.
+timeToMetro 9
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 158916899
+builtAt -
+bathrooms 1
+netArea 19.2
+metro Бульвар Дмитрия Донского
+floor 2
+price 4990000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 3
+floors 17
+rooms 1
+view двор и улица
+buildingType панельный дом
+renovation отсутствует
+balcony нет
+--------------------------
+itemId 161497834
+builtAt 2000
+bathrooms -
+netArea 20
+metro Бунинская аллея
+floor 8
+price 5700000
+area 38.6
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 155558508
+builtAt 1976
+bathrooms 1
+netArea 17
+metro Орехово
+floor 10
+price 5700000
+area 34.8
+elevator –
+timeToMetro 15
+floors 16
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161457760
+builtAt 1997
+bathrooms 1
+netArea 19
+metro Волоколамская
+floor 4
+price 5700000
+area 38.5
+elevator 1 пасс. + 1 груз.
+timeToMetro 11
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation дизайнерский
+balcony 1 балк.
+--------------------------
+itemId 159145009
+builtAt 1984
+bathrooms 1
+netArea 19
+metro Бабушкинская
+floor 14
+price 5700000
+area 34.5
+elevator 1 пасс. + 1 груз.
+timeToMetro 14
+floors 16
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 158224704
+builtAt 2001
+bathrooms -
+netArea 15
+metro Улица Старокачаловская
+floor 10
+price 5700000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 155051906
+builtAt -
+bathrooms -
+netArea 20.1
+metro Бульвар Дмитрия Донского
+floor 15
+price 5650000
+area 39.2
+elevator 2 пасс. + 1 груз.
+timeToMetro 10
+floors 22
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 160225307
+builtAt -
+bathrooms 1
+netArea 20
+metro Текстильщики
+floor 10
+price 5700000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 12
+rooms 1
+view двор и улица
+buildingType панельный дом
+renovation евроремонт
+balcony нет
+--------------------------
+itemId 162429889
+builtAt -
+bathrooms 1
+netArea 19
+metro Бибирево
+floor 5
+price 5700000
+area 33
+elevator 1 пасс.
+timeToMetro 7
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony нет
+--------------------------
+itemId 150873643
+builtAt -
+bathrooms 1
+netArea 20
+metro Царицыно
+floor 10
+price 5700000
+area 35.5
+elevator 1 пасс. + 1 груз.
+timeToMetro 9
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 162460757
+builtAt 1962
+bathrooms 1
+netArea 21.5
+metro Молодежная
+floor 8
+price 5650000
+area 33
+elevator 1 пасс.
+timeToMetro 5
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162034910
+builtAt 1974
+bathrooms 1
+netArea 19.6
+metro Первомайская
+floor 12
+price 5700000
+area 35
+elevator 1 пасс.
+timeToMetro 5
+floors 14
+rooms 1
+view улица
+buildingType блочный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 160125502
+builtAt 1972
+bathrooms 1
+netArea 18.9
+metro Коньково
+floor 5
+price 5700000
+area 33
+elevator 1 пасс.
+timeToMetro 11
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony –
+--------------------------
+itemId 161164490
+builtAt 1999
+bathrooms 1
+netArea 19
+metro Борисово
+floor 10
+price 5700000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 17
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162141864
+builtAt -
+bathrooms 1
+netArea 19.9
+metro Царицыно
+floor 2
+price 5700000
+area 37
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 16
+rooms 1
+view улица
+buildingType блочный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 162150352
+builtAt -
+bathrooms 1
+netArea 20
+metro Рязанский проспект
+floor 5
+price 5700000
+area 37
+elevator 2 пасс.
+timeToMetro 3
+floors 12
+rooms 1
+view двор
+buildingType вторичка
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 162634393
+builtAt 1963
+bathrooms 1
+netArea 21
+metro Бульвар Рокоссовского
+floor 8
+price 5700000
+area 31.9
+elevator 1 пасс.
+timeToMetro 7
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 159059036
+builtAt 1988
+bathrooms 1
+netArea 19
+metro Бабушкинская
+floor 3
+price 5650000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 16
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony 1 лодж.
+--------------------------
+itemId 161187132
+builtAt 1959
+bathrooms 1
+netArea 18.8
+metro Полежаевская
+floor 3
+price 5700000
+area 33
+elevator –
+timeToMetro 10
+floors 5
+rooms 1
+view улица
+buildingType кирпичный
+renovation отсутствует
+balcony –
+--------------------------
+itemId 162797783
+builtAt 1969
+bathrooms 1
+netArea 19
+metro Нагатинская
+floor 8
+price 5700000
+area 33
+elevator 1 пасс.
+timeToMetro 19
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony –
+--------------------------
+itemId 158740223
+builtAt 1968
+bathrooms 1
+netArea 20.4
+metro Беляево
+floor 4
+price 5750000
+area 32
+elevator –
+timeToMetro 16
+floors 5
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 155980809
+builtAt 1986
+bathrooms -
+netArea 21
+metro Красногвардейская
+floor 11
+price 5750000
+area 39
+elevator –
+timeToMetro 18
+floors 14
+rooms 1
+view –
+buildingType вторичка
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162646478
+builtAt -
+bathrooms 1
+netArea 19
+metro Улица Скобелевская
+floor 5
+price 5800000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 159507949
+builtAt -
+bathrooms 1
+netArea 19.1
+metro Митино
+floor 5
+price 5750000
+area 38
+elevator нет
+timeToMetro 7
+floors 17
+rooms 1
+view –
+buildingType панельный дом
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 152750363
+builtAt 1967
+bathrooms 1
+netArea 18
+metro Первомайская
+floor 4
+price 5750000
+area 31
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 160293774
+builtAt 1965
+bathrooms -
+netArea 18
+metro Преображенская площадь
+floor 3
+price 5800000
+area 31
+elevator –
+timeToMetro 3
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 158916899
+builtAt -
+bathrooms 1
+netArea 19.2
+metro Бульвар Дмитрия Донского
+floor 2
+price 4990000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 3
+floors 17
+rooms 1
+view двор и улица
+buildingType панельный дом
+renovation отсутствует
+balcony нет
+--------------------------
+itemId 152720496
+builtAt -
+bathrooms 1
+netArea 19.9
+metro Преображенская площадь
+floor 11
+price 13800000
+area 49.3
+elevator 1 пасс. + 1 груз.
+timeToMetro 3
+floors 13
+rooms 1
+view двор и улица
+buildingType монолитный
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 160243035
+builtAt 2016
+bathrooms 2
+netArea 21
+metro Щукинская
+floor 18
+price 16490000
+area 53
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 33
+rooms 1
+view –
+buildingType монолитный
+renovation отсутствует
+balcony –
+--------------------------
+itemId 152668556
+builtAt 1989
+bathrooms -
+netArea 21
+metro Марьино
+floor 10
+price 5800000
+area 42
+elevator 2 пасс.
+timeToMetro 12
+floors 14
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 2 лодж.
+--------------------------
+itemId 152289172
+builtAt -
+bathrooms 1
+netArea 57
+metro Автозаводская
+floor 4
+price 5800000
+area 61
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 5
+rooms 1
+view улица
+buildingType вторичка
+renovation отсутствует
+balcony –
+--------------------------
+itemId 150919854
+builtAt 2017
+bathrooms 1
+netArea 18.9
+metro Нижегородская
+floor 10
+price 5820048
+area 38.7
+elevator 2 пасс. + 2 груз.
+timeToMetro 16
+floors 17
+rooms 1
+view улица
+buildingType панельный дом
+renovation отсутствует
+balcony 2 лодж.
+--------------------------
+itemId 159411206
+builtAt -
+bathrooms 1
+netArea 18.2
+metro Новые Черемушки
+floor 1
+price 5800000
+area 30.6
+elevator 1 пасс.
+timeToMetro 15
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony нет
+--------------------------
+itemId 162961816
+builtAt 2000
+bathrooms -
+netArea 14.2
+metro Братиславская
+floor 15
+price 5800000
+area 36.1
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 17
+rooms 1
+view двор
+buildingType монолитный
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 162992565
+builtAt 1969
+bathrooms 1
+netArea 19.4
+metro Медведково
+floor 7
+price 5800000
+area 35
+elevator 1 пасс.
+timeToMetro 9
+floors 14
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 152419302
+builtAt -
+bathrooms 1
+netArea 61
+metro ЗИЛ
+floor 4
+price 5800000
+area 61
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 5
+rooms 1
+view улица
+buildingType вторичка
+renovation отсутствует
+balcony –
+--------------------------
+itemId 160870269
+builtAt 2003
+bathrooms -
+netArea 20
+metro Бульвар Адмирала Ушакова
+floor 11
+price 5800000
+area 38
+elevator 2 пасс. + 1 груз.
+timeToMetro 5
+floors 22
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 154066127
+builtAt 2015
+bathrooms 1
+netArea 20
+metro Бибирево
+floor 17
+price 5800000
+area 40
+elevator 1 пасс. + 1 груз.
+timeToMetro 18
+floors 17
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 2 балк.
+--------------------------
+itemId 161324987
+builtAt 1988
+bathrooms 1
+netArea 19.2
+metro Печатники
+floor 11
+price 5800000
+area 39.2
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161615173
+builtAt 1960
+bathrooms 1
+netArea 19
+metro Сходненская
+floor 4
+price 5800000
+area 33
+elevator –
+timeToMetro 4
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 162015330
+builtAt -
+bathrooms 1
+netArea 20.9
+metro Войковская
+floor 1
+price 5800000
+area 34.9
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161117449
+builtAt 1974
+bathrooms 1
+netArea 22.4
+metro Перово
+floor 2
+price 5800000
+area 35.2
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 162554701
+builtAt 1962
+bathrooms 1
+netArea 19
+metro ВДНХ
+floor 1
+price 5800000
+area 31
+elevator –
+timeToMetro 15
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony –
+--------------------------
+itemId 161885782
+builtAt 1968
+bathrooms 1
+netArea 20
+metro Авиамоторная
+floor 12
+price 5800000
+area 35.8
+elevator 2 пасс.
+timeToMetro 7
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161955709
+builtAt 1959
+bathrooms 1
+netArea 22
+metro Полежаевская
+floor 4
+price 5800000
+area 32
+elevator –
+timeToMetro 4
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161173122
+builtAt -
+bathrooms -
+netArea 21
+metro Алма-Атинская
+floor 2
+price 5800000
+area 39
+elevator 1 пасс.
+timeToMetro 5
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 162211420
+builtAt -
+bathrooms 1
+netArea 20
+metro Рязанский проспект
+floor 9
+price 5800000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 12
+rooms 1
+view двор и улица
+buildingType блочный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 158809799
+builtAt 1979
+bathrooms -
+netArea 16
+metro Свиблово
+floor 6
+price 5800000
+area 32
+elevator 1 пасс.
+timeToMetro 12
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 160592756
+builtAt -
+bathrooms -
+netArea 18
+metro Беляево
+floor 6
+price 5750520
+area 34.6
+elevator 2 пасс.
+timeToMetro 10
+floors 15
+rooms 1
+view двор
+buildingType монолитный
+renovation -
+balcony нет
+--------------------------
+itemId 138161243
+builtAt 1969
+bathrooms -
+netArea 19.1
+metro Первомайская
+floor 8
+price 5800000
+area 34
+elevator 1 пасс.
+timeToMetro 7
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 155722623
+builtAt 1963
+bathrooms 1
+netArea 21.5
+metro Новые Черемушки
+floor 1
+price 5750000
+area 32
+elevator 1 пасс.
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation евроремонт
+balcony –
+--------------------------
+itemId 159691593
+builtAt 1999
+bathrooms 1
+netArea 19
+metro Красногвардейская
+floor 4
+price 5800000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 13
+floors 15
+rooms 1
+view двор
+buildingType панельный дом
+renovation дизайнерский
+balcony 1 балк.
+--------------------------
+itemId 150885008
+builtAt 1966
+bathrooms 1
+netArea 19
+metro Ботанический сад
+floor 1
+price 5750000
+area 35
+elevator 1 пасс.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 158206709
+builtAt 1972
+bathrooms 1
+netArea 19
+metro Пражская
+floor 2
+price 5800000
+area 33
+elevator 1 пасс.
+timeToMetro 13
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 158018742
+builtAt 1966
+bathrooms 1
+netArea 23
+metro Аэропорт
+floor 10
+price 8650000
+area 32.5
+elevator 1 пасс.
+timeToMetro 5
+floors 10
+rooms 1
+view двор
+buildingType кирпичный
+renovation дизайнерский
+balcony 1 балк.
+--------------------------
+itemId 151217022
+builtAt 1971
+bathrooms -
+netArea 15.9
+metro Шаболовская
+floor 1
+price 6900000
+area 37.1
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор и улица
+buildingType вторичка
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 159070166
+builtAt 2012
+bathrooms 1
+netArea 15
+metro Тропарево
+floor 13
+price 21450000
+area 55
+elevator 1 пасс. + 1 груз.
+timeToMetro 11
+floors 14
+rooms 1
+view двор
+buildingType монолитный
+renovation дизайнерский
+balcony 1 балк. + 1 лодж.
+--------------------------
+itemId 162429914
+builtAt 1969
+bathrooms 1
+netArea 20
+metro Царицыно
+floor 6
+price 5790000
+area 35
+elevator 2 пасс.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 158637912
+builtAt 1964
+bathrooms 1
+netArea –
+metro Ростокино
+floor 9
+price 5750000
+area 31.6
+elevator 1 пасс.
+timeToMetro 7
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 158078444
+builtAt 1964
+bathrooms 1
+netArea 21.2
+metro Преображенская площадь
+floor 2
+price 5750000
+area 32
+elevator 1 пасс.
+timeToMetro 2
+floors 9
+rooms 1
+view двор и улица
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 162413107
+builtAt 1965
+bathrooms 1
+netArea 18
+metro Фонвизинская
+floor 1
+price 5750000
+area 33
+elevator 1 пасс.
+timeToMetro 9
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 162884317
+builtAt 2001
+bathrooms -
+netArea 20.5
+metro Бульвар Адмирала Ушакова
+floor 3
+price 5750000
+area 38.4
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 160388409
+builtAt 2003
+bathrooms -
+netArea 16
+metro Люблино
+floor 2
+price 5900000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 17
+rooms 1
+view улица
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 154781365
+builtAt -
+bathrooms 1
+netArea 18.3
+metro Севастопольская
+floor 2
+price 5900000
+area 30.5
+elevator нет
+timeToMetro 5
+floors 6
+rooms 1
+view –
+buildingType кирпичный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 159045334
+builtAt 2002
+bathrooms 1
+netArea 19
+metro Царицыно
+floor 16
+price 5850000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 18
+floors 17
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 155952163
+builtAt 1976
+bathrooms 1
+netArea 21
+metro Тульская
+floor 1
+price 5900000
+area 35
+elevator –
+timeToMetro 15
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 152553963
+builtAt 1983
+bathrooms 1
+netArea 19.8
+metro Зябликово
+floor 9
+price 5900000
+area 36.6
+elevator –
+timeToMetro 15
+floors 16
+rooms 1
+view двор
+buildingType вторичка
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 154039303
+builtAt 2017
+bathrooms 1
+netArea 20
+metro Нижегородская
+floor 18
+price 5938825
+area 39.4
+elevator 2 пасс. + 2 груз.
+timeToMetro 16
+floors 24
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony 1 лодж.
+--------------------------
+itemId 153637486
+builtAt 1978
+bathrooms 1
+netArea 20
+metro Теплый Стан
+floor 8
+price 5900000
+area 37
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 16
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 157868260
+builtAt 1965
+bathrooms 1
+netArea –
+metro Войковская
+floor 3
+price 5900000
+area 31
+elevator –
+timeToMetro 13
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 160475857
+builtAt -
+bathrooms 1
+netArea 19.5
+metro Строгино
+floor 21
+price 5900000
+area 35
+elevator 1 пасс.
+timeToMetro 5
+floors 22
+rooms 1
+view –
+buildingType панельный дом
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 152378787
+builtAt 1972
+bathrooms 1
+netArea 20
+metro Преображенская площадь
+floor 1
+price 5850000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation евроремонт
+balcony –
+--------------------------
+itemId 160070503
+builtAt 1982
+bathrooms 1
+netArea 19
+metro Выхино
+floor 9
+price 5900000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 11
+floors 16
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 150372619
+builtAt -
+bathrooms 1
+netArea 20
+metro Медведково
+floor 5
+price 5900000
+area 35
+elevator 2 пасс.
+timeToMetro 10
+floors 12
+rooms 1
+view –
+buildingType вторичка
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 155849221
+builtAt 1969
+bathrooms 1
+netArea 18
+metro Беляево
+floor 8
+price 5900000
+area 32
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 160552603
+builtAt 1983
+bathrooms -
+netArea 20
+metro Люблино
+floor 6
+price 5900000
+area 41
+elevator 1 пасс.
+timeToMetro 15
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 158117604
+builtAt 1962
+bathrooms 1
+netArea 21.8
+metro Лихоборы
+floor 7
+price 5900000
+area 33
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 157699265
+builtAt 1961
+bathrooms 1
+netArea 19.6
+metro Войковская
+floor 2
+price 5900000
+area 35.5
+elevator –
+timeToMetro 10
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation евроремонт
+balcony –
+--------------------------
+itemId 157699151
+builtAt 1974
+bathrooms 1
+netArea 20
+metro Текстильщики
+floor 9
+price 5900000
+area 35.5
+elevator 1 пасс.
+timeToMetro 8
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 162824895
+builtAt -
+bathrooms 1
+netArea 18
+metro Новогиреево
+floor 8
+price 5900000
+area 30.7
+elevator 1 пасс.
+timeToMetro 11
+floors 9
+rooms 1
+view двор
+buildingType кирпичный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 160156624
+builtAt 1978
+bathrooms 1
+netArea 19
+metro Люблино
+floor 4
+price 5900000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 12
+floors 16
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 159038734
+builtAt 1963
+bathrooms 1
+netArea 20
+metro Профсоюзная
+floor 1
+price 5900000
+area 32
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 160866344
+builtAt -
+bathrooms -
+netArea 16
+metro Перово
+floor 5
+price 6400000
+area 36
+elevator 1 пасс. + 1 груз.
+timeToMetro 23
+floors 14
+rooms 1
+view двор и улица
+buildingType блочный
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 162328962
+builtAt -
+bathrooms 1
+netArea –
+metro Тульская
+floor 2
+price 9900000
+area 32
+elevator 1 пасс.
+timeToMetro 11
+floors 3
+rooms 1
+view двор
+buildingType кирпичный
+renovation дизайнерский
+balcony –
+--------------------------
+itemId 162138930
+builtAt 1968
+bathrooms 1
+netArea 18.9
+metro Щелковская
+floor 8
+price 5900000
+area 32.6
+elevator 1 пасс.
+timeToMetro 6
+floors 9
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony нет
+--------------------------
+itemId 162138934
+builtAt 1968
+bathrooms 1
+netArea 18.9
+metro Щелковская
+floor 8
+price 5900000
+area 32.6
+elevator 1 пасс.
+timeToMetro 6
+floors 9
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony нет
+--------------------------
+itemId 157325261
+builtAt -
+bathrooms 1
+netArea 18
+metro Первомайская
+floor 5
+price 5900000
+area 35
+elevator нет
+timeToMetro 5
+floors 5
+rooms 1
+view –
+buildingType кирпичный
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 156195371
+builtAt 1982
+bathrooms 1
+netArea 20
+metro Коньково
+floor 6
+price 5900000
+area 37
+elevator 1 пасс. + 2 груз.
+timeToMetro 7
+floors 16
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161969628
+builtAt 1991
+bathrooms -
+netArea 21
+metro Бульвар Дмитрия Донского
+floor 13
+price 5900000
+area 39.3
+elevator 1 пасс. + 1 груз.
+timeToMetro 10
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 1 лодж.
+--------------------------
+itemId 157034917
+builtAt 1977
+bathrooms 1
+netArea 20.1
+metro Пражская
+floor 4
+price 5900000
+area 36.6
+elevator 1 пасс. + 1 груз.
+timeToMetro 18
+floors 16
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162361756
+builtAt 1994
+bathrooms 1
+netArea 19
+metro Марьино
+floor 3
+price 5900000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162758801
+builtAt -
+bathrooms -
+netArea 17
+metro Планерная
+floor 2
+price 5900000
+area 32
+elevator –
+timeToMetro 4
+floors 5
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 151149229
+builtAt -
+bathrooms 1
+netArea 19
+metro Отрадное
+floor 9
+price 5900000
+area 35
+elevator 1 пасс.
+timeToMetro 10
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161647473
+builtAt -
+bathrooms 1
+netArea 18.5
+metro Щукинская
+floor 5
+price 5850000
+area 30.7
+elevator –
+timeToMetro 3
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 156141867
+builtAt 1969
+bathrooms 1
+netArea 18
+metro Южная
+floor 2
+price 5900000
+area 39
+elevator 1 пасс.
+timeToMetro 12
+floors 14
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162444654
+builtAt 1980
+bathrooms -
+netArea 20.9
+metro Сходненская
+floor 12
+price 5900000
+area 39
+elevator 2 пасс.
+timeToMetro 15
+floors 12
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161026247
+builtAt 1967
+bathrooms 1
+netArea 21
+metro Шелепиха
+floor 7
+price 5850000
+area 31
+elevator 1 пасс.
+timeToMetro 8
+floors 9
+rooms 1
+view двор
+buildingType блочный
+renovation отсутствует
+balcony 1 лодж.
+--------------------------
+itemId 157828550
+builtAt 1993
+bathrooms 1
+netArea 19
+metro Пятницкое шоссе
+floor 6
+price 5900000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 9
+floors 14
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 160653636
+builtAt 1966
+bathrooms 1
+netArea 19
+metro Нагорная
+floor 4
+price 5900000
+area 31
+elevator –
+timeToMetro 13
+floors 5
+rooms 1
+view двор
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 161557108
+builtAt -
+bathrooms 1
+netArea 20
+metro Бабушкинская
+floor 15
+price 5900000
+area 38
+elevator нет
+timeToMetro 14
+floors 16
+rooms 1
+view двор и улица
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 157149159
+builtAt 1967
+bathrooms -
+netArea 18.4
+metro Беляево
+floor 4
+price 6000000
+area 36.2
+elevator 1 пасс.
+timeToMetro 9
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation отсутствует
+balcony 1 лодж.
+--------------------------
+itemId 158893555
+builtAt 1975
+bathrooms 1
+netArea 19
+metro Щукинская
+floor 7
+price 5990000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 16
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony –
+--------------------------
+itemId 155954650
+builtAt 1973
+bathrooms -
+netArea 20
+metro Преображенская площадь
+floor 2
+price 6000000
+area 36
+elevator –
+timeToMetro 13
+floors 12
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony –
+--------------------------
+itemId 161520303
+builtAt 2017
+bathrooms 1
+netArea 18
+metro Водный стадион
+floor 6
+price 6000000
+area 30.8
+elevator 2 пасс. + 2 груз.
+timeToMetro 10
+floors 22
+rooms 1
+view двор
+buildingType монолитный
+renovation отсутствует
+balcony –
+--------------------------
+itemId 160872132
+builtAt 2008
+bathrooms 1
+netArea 16
+metro Щелковская
+floor 17
+price 5950000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 9
+floors 18
+rooms 1
+view –
+buildingType монолитный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 152816450
+builtAt 1968
+bathrooms 1
+netArea 18
+metro Первомайская
+floor 9
+price 6000000
+area 30
+elevator 1 пасс.
+timeToMetro 4
+floors 9
+rooms 1
+view двор
+buildingType вторичка
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 151856839
+builtAt 1966
+bathrooms 1
+netArea 23
+metro Новогиреево
+floor 2
+price 6000000
+area 30
+elevator –
+timeToMetro 5
+floors 5
+rooms 1
+view двор
+buildingType панельный дом
+renovation дизайнерский
+balcony 1 балк.
+--------------------------
+itemId 159554107
+builtAt 1965
+bathrooms 1
+netArea 18.1
+metro Преображенская площадь
+floor 4
+price 5999000
+area 30.5
+elevator 1 пасс.
+timeToMetro 7
+floors 9
+rooms 1
+view улица
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162282706
+builtAt 1974
+bathrooms -
+netArea 20
+metro Новогиреево
+floor 9
+price 5990000
+area 40
+elevator 2 пасс.
+timeToMetro 4
+floors 14
+rooms 1
+view улица
+buildingType кирпичный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 158284953
+builtAt 1960
+bathrooms -
+netArea 20
+metro Пролетарская
+floor 6
+price 5999000
+area 31
+elevator 1 пасс.
+timeToMetro 7
+floors 8
+rooms 1
+view улица
+buildingType кирпичный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 160633173
+builtAt -
+bathrooms -
+netArea 23
+metro Фрунзенская
+floor 2
+price 13450000
+area 44
+elevator 1 пасс.
+timeToMetro 15
+floors 10
+rooms 1
+view двор
+buildingType сталинский
+renovation -
+balcony нет
+--------------------------
+itemId 154981446
+builtAt -
+bathrooms -
+netArea 25
+metro Университет
+floor 8
+price 17300000
+area 61
+elevator 1 пасс.
+timeToMetro 10
+floors 20
+rooms 1
+view двор
+buildingType кирпично-монолитный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 161059752
+builtAt 2006
+bathrooms 1
+netArea 20
+metro Бульвар Дмитрия Донского
+floor 13
+price 7000000
+area 44
+elevator 2 пасс. + 2 груз.
+timeToMetro 9
+floors 24
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 162892786
+builtAt 1979
+bathrooms -
+netArea 21
+metro Новогиреево
+floor 4
+price 6000000
+area 39
+elevator 2 пасс.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 2 балк.
+--------------------------
+itemId 149706252
+builtAt 2004
+bathrooms 1
+netArea 20.3
+metro Бульвар Дмитрия Донского
+floor 1
+price 6000000
+area 38.8
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 17
+rooms 1
+view улица
+buildingType кирпично-монолитный
+renovation косметический
+balcony –
+--------------------------
+itemId 156847063
+builtAt 1989
+bathrooms 1
+netArea 19
+metro Алма-Атинская
+floor 5
+price 6000000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 15
+floors 17
+rooms 1
+view –
+buildingType вторичка
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 159375383
+builtAt 1994
+bathrooms -
+netArea 19
+metro Пятницкое шоссе
+floor 8
+price 6000000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 9
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159975272
+builtAt 1967
+bathrooms 1
+netArea 20
+metro Щукинская
+floor 1
+price 5990000
+area 32
+elevator нет
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation отсутствует
+balcony нет
+--------------------------
+itemId 159171203
+builtAt 1973
+bathrooms 1
+netArea 19.3
+metro Беляево
+floor 4
+price 6000000
+area 35.1
+elevator 1 пасс.
+timeToMetro 17
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк. + 1 лодж.
+--------------------------
+itemId 157866874
+builtAt 1987
+bathrooms 1
+netArea 19
+metro Домодедовская
+floor 17
+price 6000000
+area 37.8
+elevator –
+timeToMetro 13
+floors 17
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 150655625
+builtAt 1991
+bathrooms 1
+netArea 19
+metro Бульвар Дмитрия Донского
+floor 6
+price 5950000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 2
+floors 17
+rooms 1
+view улица
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 161502316
+builtAt 1967
+bathrooms 1
+netArea 20
+metro Кантемировская
+floor 1
+price 5990000
+area 36
+elevator 1 пасс.
+timeToMetro 12
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony –
+--------------------------
+itemId 157962335
+builtAt -
+bathrooms 1
+netArea 20
+metro Борисово
+floor 4
+price 6000000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 3
+floors 18
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162304260
+builtAt 1979
+bathrooms -
+netArea 20
+metro Бибирево
+floor 4
+price 6000000
+area 33
+elevator 1 пасс.
+timeToMetro 14
+floors 12
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 159993848
+builtAt 1985
+bathrooms 1
+netArea 19
+metro Зябликово
+floor 4
+price 6000000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 1 балк.
+--------------------------
+itemId 160706956
+builtAt -
+bathrooms 1
+netArea 18
+metro Бунинская аллея
+floor 17
+price 5999000
+area 47
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 17
+rooms 1
+view улица
+buildingType панельный дом
+renovation евроремонт
+balcony 1 балк. + 1 лодж.
+--------------------------
+itemId 162839673
+builtAt -
+bathrooms 1
+netArea 19.1
+metro Братиславская
+floor 4
+price 6000000
+area 39.7
+elevator нет
+timeToMetro 18
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 162649861
+builtAt 2013
+bathrooms 1
+netArea 20
+metro Строгино
+floor 14
+price 6000000
+area 37
+elevator 1 пасс.
+timeToMetro 18
+floors 23
+rooms 1
+view двор
+buildingType монолитный
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 153108620
+builtAt 1964
+bathrooms -
+netArea 21
+metro Каховская
+floor 9
+price 6000000
+area 35
+elevator 1 пасс.
+timeToMetro 10
+floors 9
+rooms 1
+view двор и улица
+buildingType панельный дом
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 161198709
+builtAt 1986
+bathrooms 1
+netArea 19
+metro Зябликово
+floor 5
+price 5950000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 14
+floors 17
+rooms 1
+view –
+buildingType панельный дом
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 159315940
+builtAt 2008
+bathrooms 1
+netArea 19.1
+metro Лермонтовский проспект
+floor 14
+price 6100000
+area 38
+elevator 1 пасс. + 1 груз.
+timeToMetro 5
+floors 17
+rooms 1
+view двор
+buildingType панельный дом
+renovation -
+balcony 1 лодж.
+--------------------------
+itemId 160071865
+builtAt -
+bathrooms 1
+netArea 20
+metro Молодежная
+floor 12
+price 6100000
+area 34
+elevator 1 пасс.
+timeToMetro 10
+floors 12
+rooms 1
+view двор
+buildingType блочный
+renovation косметический
+balcony 1 балк.
+--------------------------
+itemId 153126172
+builtAt 1963
+bathrooms 1
+netArea 18
+metro Коломенская
+floor 3
+price 6100000
+area 33
+elevator 1 пасс.
+timeToMetro 10
+floors 8
+rooms 1
+view двор
+buildingType вторичка
+renovation отсутствует
+balcony 1 балк.
+--------------------------
+itemId 162957202
+builtAt 1983
+bathrooms 1
+netArea 18
+metro Планерная
+floor 10
+price 6100000
+area 35
+elevator 1 пасс. + 1 груз.
+timeToMetro 8
+floors 16
+rooms 1
+view улица
+buildingType блочный
+renovation косметический
+balcony 1 лодж.
+--------------------------
+itemId 162708960
+builtAt -
+bathrooms 1
+netArea 19
+metro Бибирево
+floor 7
+price 6100000
+area 33
+elevator 1 пасс.
+timeToMetro 8
+floors 9
+rooms 1
+view двор
+buildingType панельный дом
+renovation косметический
+balcony нет
+--------------------------
+itemId 157897948
+builtAt 1994
+bathrooms -
+netArea 21
+metro Марьино
+floor 10
+price 6100000
+area 40
+elevator 1 пасс.
+timeToMetro 7
+floors 14
+rooms 1
+view двор
+buildingType панельный дом
+renovation евроремонт
+balcony 2 лодж.
+--------------------------
+itemId 162061236
+builtAt -
+bathrooms 1
+netArea 20
+metro Тимирязевская
+floor 2
+price 6099000
+area 39
+elevator 1 пасс. + 1 груз.
+timeToMetro 7
+floors 14
+rooms 1
+view двор
+buildingType блочный
+renovation -
+balcony 1 балк.
+--------------------------
+itemId 159426763
+builtAt 1969
+bathrooms 1
+netArea 16
+metro Планерная
+floor 5
+price 6100000
+area 31.5
+elevator 1 пасс.
+timeToMetro 9
+floors 12
+rooms 1
+view двор
+buildingType вторичка
+renovation косметический
+balcony 1 лодж.
+--------------------------

@@ -1,0 +1,8 @@
+<div id="pages">
+    <ul>
+        <li class="active"><a href="example.com">Example</a></li>
+        <li><a href="example.com">Example</a></li>
+        <li><a href="example1.com">Example 1</a></li>
+        <li><a href="example2.com">Example 2</a></li>
+    </ul>
+</div>
